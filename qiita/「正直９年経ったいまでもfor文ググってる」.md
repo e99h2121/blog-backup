@@ -1,5 +1,3 @@
-#「正直９年経ったいまでもfor文ググってる」
-
 「正直９年経ったいまでもfor文ググってる」
 
 https://dev.to/rudderstack/9-years-on-i-still-google-javascript-for-loop-5add

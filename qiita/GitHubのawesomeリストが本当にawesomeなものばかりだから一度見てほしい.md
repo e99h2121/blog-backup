@@ -1,5 +1,3 @@
-#GitHubのawesomeリストが本当にawesomeなものばかりだから一度見てほしい
-
 伝えたいことは全てタイトルに書いた。
 
 ## 動機
@@ -94,6 +92,12 @@ HTMLからJava、Python、Ruby、Rust、Shellの他、SQLまで、何でも。aw
 https://github.com/brabadu/awesome-fonts
 無料フォントから、emojiもawesome。
 
+### awesomeなDocker compose
+[https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose)
+
+https://qiita.com/mochimoching/items/884758da98bb8609d943
+
+
 ### awesomeなその他
 
 書ききれないオールジャンルな物たち。
@@ -114,3 +118,10 @@ https://github.com/brabadu/awesome-fonts
 書いてみたものの、詳細コンテンツ自体は皆様ご存知のもののほうが、もしかしたらたくさんあるかもしれません。この馴染みのリポジトリもawesomeリスト入りしていたものだったのだなあ、等と思ってしまいつつ、awesomeなリファレンスとしてこのリスト達を眺めてみたら壮観で、感動するばかりだったので書きました。
 
 …かつここで [誰かが作った素晴らしいライブラリキュレーションリンク集awesome](https://qiita.com/applideveloper/items/b1887cb5576cd3bd3941) という少し前 (5年ほど) の記事をようやく発見。2番煎じに恐縮しつつも、2021年現在の情報Updateということで。以上楽しんでいただければさいわいです。
+
+
+## 後日談
+[Awesome list in GitHub is awesome.](https://dev.to/e99h2121/awesome-list-in-github-is-awesome-17im) ... と同じ趣旨の話をdev.toに書き込んでみたら、これも良いよ、とお返事を頂いた。
+
+https://dev.to/devlorenzo/comment/1c79a
+
