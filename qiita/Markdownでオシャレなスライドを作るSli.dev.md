@@ -76,4 +76,8 @@ https://qiita.com/unbabel/items/bf5d7e9e847190ddb0ee
 
 https://notepm.jp/blog/5994
 
+同じく紹介記事発見 :smiley: 
+
+https://zenn.dev/ryo_kawamata/articles/introduce-slidev
+
 簡単ながら以上、参考になればさいわいです。

@@ -227,6 +227,16 @@ https://developers.google.com/chart/interactive/docs/querylanguage
 https://note.com/tks97/n/n4c7803532cd8
 
 
+### 7. Sqliteviz
+
+https://github.com/lana-k/sqliteviz
+
+ただのCSVにクエリを投げることができる。
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/f829235a-a047-5bde-cf60-70448689d32b.png)
+
+
+
 ## まとめ
 
 冒頭のやりたいこと以上に色々「データベース」とはをググりました。古い方の自分にとっては今更なSQLなのだが、相変わらずSQLというのは使える知識であることにありがたみを感じる。比較的あたらしい基本記事を参考までに貼っておく。
