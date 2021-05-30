@@ -1,3 +1,9 @@
+---
+title: 英語力と技術力向上のための海外Tech系Youtuber10選 +n
+tags: YouTube Python JavaScript 学習 英語
+author: e99h2121
+slide: false
+---
 身につまされる我々の英語力問題。手っ取り早く英語を習得するなら海外に行ってしまうが最善なはずですがこのコロナ禍、身近なところで英語に触れつつ技術も勉強したい？といえば、動画です。
 
 [10 Developers You Should Follow to Improve Your Skills (スキルを上げるための、フォローすべき開発者10選)](https://spathania08.medium.com/10-developers-you-should-follow-to-improve-your-skills-ad58672912d) という記事があったので10人をまとめた。プラスオマケ。それぞれ実際に動画を見てみての補足付き。
@@ -181,6 +187,11 @@ https://www.youtube.com/c/NickWhite
 その後、
 YouTube (mostly, but not only) channels for frontend developers
 https://github.com/andrew--r/channels
+
+Programming Talks, Awesome Talks
+https://github.com/hellerve/programming-talks
+https://github.com/JanVanRyswyck/awesome-talks
+
 
 なんてリポジトリも見つけてしまいました。
 
