@@ -1,10 +1,14 @@
-タイトルそのままです。
-日本・海外の有名どころがどういったものを公開しているのかな、公開している会社って良いな
-と思いさらった内容。
+---
+title: 随時手動更新: 各企業のGitHub OrganizationリポジトリとTechblogなど色々
+tags: GitHub Blog
+author: e99h2121
+slide: false
+---
+タイトルそのままです。日本・海外の有名どころがどういったものを公開しているのかな、公開している会社って良いなと思いさらった内容。
 
 ＊色々追記していきます。
 
-## from A to Z
+## From A to Z
 ### Adobe
 https://github.com/adobe-webplatform
 
@@ -70,6 +74,12 @@ https://github.com/evernote
 https://github.com/facebook
 ### Flipboard
 https://github.com/Flipboard
+
+### Fujitsu
+
+https://blog.fltech.dev/
+
+
 ### Git
 https://github.com/git
 ### GitHub
@@ -116,6 +126,10 @@ https://blog.kyash.co/
 
 https://github.com/Kyash/recruitment/blob/master/slack_rules.md
 
+### Leaner Technologies 
+
+https://zenn.dev/leaner_tech
+
 ### LINE
 https://github.com/line
 
@@ -125,10 +139,10 @@ https://engineering.linecorp.com/ja/blog/
 ### Linkedin
 https://github.com/linkedin
 
-### mitene
-https://github.com/mitene
 
-https://github.com/mitene/slack-guidelines/blob/main/Slack_Guidelines_Ja.md
+### Manalink
+
+https://zenn.dev/manalink
 
 ### Mercari
 https://github.com/mercari
@@ -137,6 +151,11 @@ https://github.com/mercari/mercari-slack-guidelines/blob/master/Slack_Guidelines
 
 ### Microsoft
 https://github.com/microsoft
+
+### mitene
+https://github.com/mitene
+
+https://github.com/mitene/slack-guidelines/blob/main/Slack_Guidelines_Ja.md
 
 ### Mixi
 https://github.com/mixi-inc
@@ -147,11 +166,20 @@ https://github.com/naver
 ### Netflix
 https://github.com/Netflix
 
+https://netflixtechblog.com/
 ### Nordot
 
 https://github.com/nordot
 
 https://github.com/nordot/otherthancode
+
+
+### NTT Communications
+
+https://nttcom.github.io/onboarding-handbook/
+
+https://github.com/nttcom
+
 
 ### Paypal
 https://github.com/paypal
@@ -160,6 +188,9 @@ https://github.com/paypal
 https://github.com/pepabo
 
 https://tech.pepabo.com/
+
+https://tech.pepabo.com/2021/04/30/introduction-of-inhouse/
+
 
 ### Pixiv
 https://github.com/pixiv
@@ -171,6 +202,10 @@ https://blog.qiita.com/
 
 ### Rakuten
 https://github.com/rakuten-ws
+
+### Recruit Tech
+
+https://github.com/recruit-tech
 
 ### SmartHR
 https://qiita.com/organizations/smarthr
@@ -187,12 +222,20 @@ https://blog.twitter.com/
 
 https://blog.twitter.com/ja_jp.html
 
+### Wantedly
+
+
+https://github.com/wantedly/learning-resources
 
 ### Wordpress
 https://github.com/WordPress
 
 ### Yahoo
 https://github.com/yahoo
+
+### Yumemi
+https://github.com/yumemi-inc/ios-training
+
 
 ### Zenn
 https://github.com/zenn-dev
@@ -218,4 +261,4 @@ https://qiita.com/organizations
 
 
 
-以上です。メモ。
+以上です。

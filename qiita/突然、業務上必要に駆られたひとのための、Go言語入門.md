@@ -1,3 +1,9 @@
+---
+title: 突然、業務上必要に駆られたひとのための、Go言語入門
+tags: Go
+author: e99h2121
+slide: false
+---
 表題のとおりです。とにかく要件を満たすためだけにGoを触らないといけないかもしれない人のために最低限の情報だけ集めた。
 
 https://www.tohoho-web.com/ex/golang.html#about
@@ -113,6 +119,9 @@ func main() {
     fmt.Println(name)
 }
 ```
+
+https://qiita.com/yu19991013/items/ae4f6e0ebd59dfb9bc3d
+
 
 以上。参考になればさいわいです。
 
