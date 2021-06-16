@@ -25,6 +25,13 @@ navigator.clipboard.writeText(clipboardText);
 IE以外は対応している。
 *[Compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/writeText#browser_compatibility)
 
+### 補足
+
+https://stackoverflow.com/questions/51805395/navigator-clipboard-is-undefined
+
+https://web.dev/async-clipboard/
+
+
 ## window.clipboardData（IE）
 
 `window.clipboardData.setData`
@@ -56,4 +63,8 @@ https://qiita.com/butakoma/items/642c0ec4b77f6bb5ebcf
 - [Clipboard API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
 - [JavaScript まとめ - クリップボード操作](http://cya.sakura.ne.jp/js/clipboardData.htm)
 
+
+https://github.com/lgarron/clipboard-polyfill
+
+こんなのもある。
 以上メモのみ。

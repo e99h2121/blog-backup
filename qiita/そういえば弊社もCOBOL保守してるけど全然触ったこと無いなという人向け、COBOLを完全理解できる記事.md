@@ -176,6 +176,14 @@ https://www.ibm.com/blogs/think/jp-ja/cobol-2020/
 
 ## おわりに: COBOLが秘伝のタレ化しないために
 
+COBOL記事追記。
+
+https://qiita.com/kaizen_nagoya/items/60596bad631956127cf8
+
+https://qiita.com/yuichisan65/items/b8e088e5f15aa80fabcf
+
+以下は余談。
+
 https://logmi.jp/tech/articles/324437
 
 > 具体的には、「ドキュメントよりも動くもの」を重視した結果、「ソースコードを読めばわかる」仕様になっていたり、少数精鋭の少数もいいところで、プロジェクトが1人メンバーという「ぼっちプロジェクト」と呼ばれるプロジェクトもあったりしました。

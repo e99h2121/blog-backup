@@ -201,9 +201,11 @@ Quoraをみると、
 [emoji.muan.co](https://emoji.muan.co/)
 [twemoji](https://twemoji.twitter.com/) 
 
-過去のemoji便利記事。
+emoji便利記事等
 [GitHub, Slack, Qiitaなどで使える！覚えておきたい絵文字コード集](https://qiita.com/ruwatana/items/6b5be96728b85ee53c1e)
 [治安の悪い Slack Emoji を作るツールを作った](https://qiita.com/zk_phi/items/8a24b8ad9d1eabd364aa)
+[絵文字ジェネレーター - Slack 向け絵文字を無料で簡単生成](https://emoji-gen.ninja/)
+[Slack Emojiを支える技術 - フォトシンス エンジニアブログ](https://akerun.hateblo.jp/entry/2017/12/02/224726)
 [Git・GitHubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）](https://qiita.com/unbabel/items/1cf05f2a2be3d6fb3388#%E7%B5%B5%E6%96%87%E5%AD%97)
 [Slackであまり知られていない便利機能一覧](https://qiita.com/kozyty@github/items/cbe58a72a715b540c60f#cmd--shift--)
 [土下座絵文字 ( `:bow:` ) はYesなのかNoなのか曖昧だからやめてほしい](https://qiita.com/ykmns/items/b59b2f2c205e1d2e9391)
