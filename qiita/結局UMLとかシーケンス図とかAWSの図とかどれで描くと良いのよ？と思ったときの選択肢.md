@@ -35,6 +35,31 @@ https://qiita.com/takehanKosuke/items/efa29f8bfb9a6b74e901
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/946dcefb-d9b7-7bcc-f259-6d9c0800c62b.png)
 
+#### Qiita記事にも使えるようになったようだ
+https://twitter.com/Qiita/status/1391701962047909894?s=19
+
+こんな感じで
+
+```
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+```
+
+
+```plantuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+```
+
+
+
 #### トラブルシュート
 
 https://qiita.com/zonbitamago/items/7946acfb4cbaa139f00a

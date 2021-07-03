@@ -1,15 +1,12 @@
-**おそらく全世界の2021年で最新の日本語によるDelphi記事です。**
+おそらく全世界の2021年で最新の日本語によるDelphi記事です。
 [はてなブックマーク3万件にみる技術トレンド2020年まとめ](https://qiita.com/lilpacy/items/ef4ae5e08bd2d001f821) を読んだ。[3万分の1のDelphi](https://zenn.dev/e99h2121/articles/6c55e3c68c7cf6) に簡単に書いてみたが、3万件中1件しかはてなでDelphiの話題は取り上げられていない。
 しかもその1件は私の書いた[Delphiなんかで開発していて恥ずかしくないの？](https://qiita.com/e99h2121/items/e5b823ae69ce418ea235)だ。
 
 自給自足生活ではないか。
 
-*その後、自分的にもトレンドを追いたくて追記: 
-[2021年、業務アプリ開発歴17年が初めてFlutter Firebase Dartを触りたくなった話](https://qiita.com/e99h2121/items/22bebc9e69d499aa3d8f)
 
-## 恥ずかしかったDelphi、その後、キャッチアップしました
-[Delphi なんかで開発していて恥ずかしくないよ？](https://qiita.com/pik/items/42b32e2c555b9b743ca1) と慰めて頂いて以来正直少しDelphiを見直しています。
-そんな2021年正月。何ならDelphiの話題を <s>捻出できないか</s> 広められないかと思い自PCに、Community Editionを入れてみました。
+## 恥ずかしかったDelphi、その後
+[Delphi なんかで開発していて恥ずかしくないよ？](https://qiita.com/pik/items/42b32e2c555b9b743ca1) と慰めて頂いて以来正直少しDelphiを見直しています。2021年正月。何ならDelphiの話題を捻出できないかと思い自PCに、Community Editionを入れてみました。
 
 ### Community EditionとRad Studio 
 https://www.embarcadero.com/jp/products/rad-studio
@@ -24,7 +21,7 @@ Delphi Community Editionは、Windows、iOS、Android、macOS向けのネイテ�
 というか [Delphi Community Edition](https://qiita.com/pik/items/1db2b6d2f9972d953df4) の記事に非常に詳しい。
 なにやら製品群の区別が難しいがともかく、Delphiは今[最新の Delphi の IDE](https://qiita.com/pik/items/42b32e2c555b9b743ca1#%E6%9C%80%E6%96%B0%E3%81%AE-delphi-%E3%81%AE-ide)ともあるようにモダンなのである。たしかに私の知っている以前のDelphiよりおしゃれになっている。
 
-まあサラリーマン開発者（私）的にチェックしなければいけないポイントはもちろん、10年前のDelphiと比べたら
+サラリーマン開発者（私）的にチェックしなければいけないポイントはもちろん、10年前のDelphiと比べたら
 > Windows 10アプリの構築
 最新のWindows 10のユーザーインターフェイスコントロール、WinRT API、HighDPI、Windowsストアサポートなどの新機能を搭載したVCLによりWindowsアプリケーションをモダナイズできます。
 
@@ -33,8 +30,7 @@ Delphi Community Editionは、Windows、iOS、Android、macOS向けのネイテ�
 お値段いかほど：
 https://www.embarcadero.com/images/jp/embarcadero-pricelist-jpy.pdf
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/68be6689-10de-21c0-7156-a84ca67e1260.png)
-うーん。[なぜ流行っていないのか](https://qiita.com/pik/items/1db2b6d2f9972d953df4#%E3%81%AA%E3%81%9C%E6%B5%81%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B)。記事の分析では「高額だから」との説ですね。同意。
-そこへだ。
+うーん。[なぜ流行っていないのか](https://qiita.com/pik/items/1db2b6d2f9972d953df4#%E3%81%AA%E3%81%9C%E6%B5%81%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B)。記事の分析では「高額だから」との説ですね。同意。そこへ。
 
 ## Learn Delphi !!
 

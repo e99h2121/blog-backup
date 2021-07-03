@@ -1,3 +1,9 @@
+何でも草API Pixela。
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/61b3cde1-f162-a329-f9d9-42c0ec16ef8f.png)
+
+
+
 かいつまむと公式のことを行うだけなのだが、便利なTips等含めメモ。
 
 提供ページ:
@@ -92,6 +98,74 @@ setyoursecretpass の部分は自分でパスワードをセット。
 
 date : 草を生やしたい日付
 quantity : 草の量
+
+
+### 例えばGoogle Apps Script (GAS)から
+
+こんな感じにするとGASで草を生やせる。
+
+```js
+
+var headers = {
+  'X-USER-TOKEN': '自分のパスワード'
+};
+
+var options = {
+  'method' : 'put',
+  'contentType': 'application/json',
+  'payload' : '',
+  'headers' : headers,
+  'muteHttpExceptions': true
+};
+
+function myFunctionToPixela() {
+  var json = UrlFetchApp.fetch('https://pixe.la/v1/users/yamada-n/graphs/my-tweet-graph/increment', options).getContentText();
+  var jsonData = JSON.parse(json);
+
+  //返り値は {"message":"Success.","isSuccess":true
+  var message = jsonData['message'];
+  console.log(message);
+ }
+ 
+```
+
+
+
+```js
+var headers = {
+  'X-USER-TOKEN': '自分のパスワード'
+};
+
+function getToday() {
+  today = new Date();
+  date = Utilities.formatDate(today,'JST', 'yyyyMMdd');
+  console.log(date);
+  return date;
+}
+
+var body = { 
+  'date': getToday(),
+  'quantity':'10',
+};
+
+var options = {
+  'method' : 'post',
+  'contentType': 'application/json',
+  'payload' : JSON.stringify(body),
+  'headers' : headers,
+  'muteHttpExceptions': true
+};
+
+function myFunctionToPixela() {
+  var json = UrlFetchApp.fetch('https://pixe.la/v1/users/yamada-n/graphs/test-graph', options).getContentText();
+  var jsonData = JSON.parse(json);
+
+  //返り値は {"message":"Success.","isSuccess":true
+  var message = jsonData['message'];
+  console.log(message);
+ }
+```
+
 
 
 ## 確認

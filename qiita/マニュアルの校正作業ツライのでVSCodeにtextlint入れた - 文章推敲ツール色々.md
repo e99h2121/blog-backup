@@ -1,11 +1,15 @@
 ## textlint物語
 
-そのままですが、なぐり書き。書くのは好きだけど人の書いたものの読むだけってツライ、と思ったので入れたVSCodeとtextlint。
+https://qiita.com/takasp/items/22f7f72b691fda30aea2
+
+上記に倣う記録。そのままですが、なぐり書き。書くのは好きだけど人の書いたものの読むだけってツライ、と思ったので入れたVSCodeとtextlint。
 
 
 ### たすけてドラえもん
 [WindowsのVS Codeでtextlintを使ってリアルタイムに文章校正する。](https://mk-55.hatenablog.com/entry/2018/03/24/004339) があるよ。
 [Node.js / npmをインストールする（for Windows）](https://qiita.com/taiponrock/items/9001ae194571feb63a5e) をみてインストールします。
+
+https://maku.blog/p/3veuap5/
 
 `npm install -global textlint textlint-rule-preset-ja-technical-writing textlint-filter-rule-comments textlint-filter-rule-whitelist`
 

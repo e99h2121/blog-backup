@@ -205,5 +205,21 @@
 安定の[鏡餅](https://qiita.com/7note/items/34217d2b926efa32bf40)、
 [HTML・CSS開発で困った時に役に立つ記事、100本まとめ](https://qiita.com/7note/items/4fd0b55ede2ea0acb010) がシンプルに楽しい。バックエンドの保守対応をしていると目の保養をしたくなります...
 
+### 追記
+
+<s>変態的 </s> CoolなCSS Loaders たちを公開している記事を発見したのでここに追記。
+
+[I made 100 CSS loaders for your next project - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
+[Another 100 CSS loaders for your next project - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l)
+[I made 100 more CSS loaders for your next project - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/i-made-100-more-css-loaders-for-your-next-project-4ioa)
+[Still 100 CSS loaders for your next project](https://dev.to/afif/still-100-css-loaders-for-your-next-project-57hp)
+
+<p class="codepen" data-height="565" data-theme-id="light" data-default-tab="result" data-user="t_afif" data-slug-hash="bGqEBgL" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="The progress">
+  <span>See the Pen <a href="https://codepen.io/t_afif/pen/bGqEBgL">
+  The progress</a> by Temani Afif (<a href="https://codepen.io/t_afif">@t_afif</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 以上、楽しんで頂けたらさいわいです。
 

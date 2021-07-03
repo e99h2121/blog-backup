@@ -1,6 +1,11 @@
 とりあえず完成形がこれ。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/a4a469bd-bee8-12c2-170d-de3b2e34e0ce.png)
 
+その後「頑張って濃い緑色を増やしたい」モチベーションは持続していて一定の効果有り。歯抜けの箇所はGASさんがエラーになっていた日ではある :sweat_smile: 
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/47e77b58-d0dd-16f8-9aa3-6143e1db2b5b.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/d7749674-c0e1-2d8a-f5f0-45a912b69e72.png)
+
+
 ## 前提
 筆者は、AndroidスマフォでGoogle Fitを使って歩数記録しています。在宅勤務も1年を超えてくると歩数とかだんだんどうでも良くなってきちゃいますね...
 しかし暖かくなったし折角なので、プログラマーみんな大好き「[草](https://qiita.com/sta/items/2c1f0252a6a9ce5e2087)」の形で記録を見える化しモチベーション維持につなげたいと思いました。
@@ -294,5 +299,18 @@ function myFunctionToPixela() {
 
 https://github.com/googleworkspace/apps-script-oauth2
 
+https://developers.google.com/fit/scenarios/record-steps
+
+
 そして健康になる。
+
+### 健康記事
+
+https://zenn.dev/mattn/articles/cac1a9048c3935
+
+https://qiita.com/PopomPro/items/7155bc46a31e87bdc368
+
+https://zenn.dev/kdnakt/scraps/92734381d4595c
+
+
 皆様のモチベーション維持に参考になれば、さいわいです。

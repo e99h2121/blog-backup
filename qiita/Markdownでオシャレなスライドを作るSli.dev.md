@@ -6,6 +6,12 @@ Sli.dev は Beta Version。あらかじめ
 
 ![slidev.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/81da2091-53c4-9795-3f58-9f53ee1987c1.gif)
 
+以降は
+
+`npm run dev`
+`npm run build`
+`npm run export` 
+
 
 ## sli.dev
 
@@ -54,15 +60,25 @@ Presentation Slides for Developers
 
 ```
 
+### Theme
+
+https://sli.dev/themes/gallery.html
+
+### Showcases
+
+https://sli.dev/showcases.html
+
 ### VSCode拡張
 
 https://marketplace.visualstudio.com/items?itemName=antfu.slidev
 
-### Export
+### PDFにExport
 
-`Install playwright-chromium`
+https://sli.dev/guide/exporting.html
+
+`npm install playwright-chromium`
 を行って、
-`slidev export`
+`npx slidev export`
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/ce0a55a1-2aa4-906b-025c-09bf27b3702e.png)
 
 

@@ -1,4 +1,7 @@
-[githubを二段階認証に変更後に起こるエラーの対処方法](https://qiita.com/sayama0402/items/670b6b650ebdd8680a0b) でも解決しなかった点。
+[githubを二段階認証に変更後に起こるエラーの対処方法](https://qiita.com/sayama0402/items/670b6b650ebdd8680a0b) 
+[GitHubに二段階認証を設定した後にGit操作できない時の解決策](https://qiita.com/kitoko552/items/3f45de6c876c638b690d)
+
+でも解決しなかった点。
 
 ## git clone ができない
 

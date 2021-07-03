@@ -97,6 +97,10 @@ https://github.com/brabadu/awesome-fonts
 
 https://qiita.com/mochimoching/items/884758da98bb8609d943
 
+### awesomeなSRE
+
+https://github.com/dastergon/awesome-sre
+
 
 ### awesomeなその他
 

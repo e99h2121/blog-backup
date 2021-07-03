@@ -171,5 +171,5 @@ https://github.com/gelstudios/gitfiti#notable-derivatives-or-mentions
 以上お楽しみいただければさいわいです。
 
 
-
+追記: [GitHubプロフィールをカッコ良くする方法](https://qiita.com/e99h2121/items/59ce92f5c2215ecb9f89) 
 

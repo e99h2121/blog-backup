@@ -1,5 +1,7 @@
 https://dev.to/philiphaines/beautify-your-github-40hh
 
+
+
 というのを読んだ。
 
 ## User/User リポジトリ を作る
@@ -37,6 +39,11 @@ https://shields.io/
 
 https://github.com/vn7n24fzkq/github-profile-summary-cards
 
+### Readme generator
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+
 
 ## 参考
 
@@ -52,11 +59,19 @@ https://qiita.com/katot/items/c7eab8c4470610ac83bc
 
 https://qiita.com/Hassan/items/134009209f5709f892b1
 
+https://qiita.com/koinori/items/5bfed284fab04b5fee16
+
 https://dev.to/philiphaines/beautify-your-github-40hh
+
+https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+
+
+盛るのはもちろん楽しい。
+
 
 ### とはいえ
 
-GitHubに普段から芝を生やすことがもっともプロフィールをカッコ良くする方法であろう...
+GitHubに普段から芝を生やすことがもっとも、真に、プロフィールをカッコ良くする方法であろう...。
 
 https://qiita.com/sta/items/2c1f0252a6a9ce5e2087
 
@@ -65,5 +80,4 @@ https://qiita.com/pekepek/items/a334ab9e201c486aed3f
 [芝生の画像化ができるサービス](https://grass-graph.moshimo.works/)
 [芝生をかっこよくスカイラインな立体にしてくれるもの](https://skyline.github.com/) 等
 
-ということで、10分たらずでGitHubプロフィールをカッコ良くしたが、もうすぐGWも終わるので、また日々コツコツと頑張ろうというメモでした。以上お楽しみいただければさいわいです。
-
+ということで、10分たらずでGitHubプロフィールをカッコ良くしたが、また日々コツコツと頑張ろうというメモでした。以上お楽しみいただければさいわいです。

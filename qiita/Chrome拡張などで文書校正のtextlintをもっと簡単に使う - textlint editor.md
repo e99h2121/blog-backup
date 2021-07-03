@@ -1,9 +1,3 @@
----
-title: Chrome拡張などで文書校正のtextlintをもっと簡単に使う - textlint editor
-tags: textlint chrome-extension firefox-web-extension ドキュメント
-author: e99h2121
-slide: false
----
 https://efcl.info/2021/05/27/textlint-12-editor/
 
 https://gigazine.net/news/20210625-textlint-12/

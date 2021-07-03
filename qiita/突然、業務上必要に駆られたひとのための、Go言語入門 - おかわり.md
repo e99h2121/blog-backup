@@ -87,6 +87,16 @@ https://golang.org/doc/effective_go#panic
 https://qiita.com/nayuneko/items/9534858156dfd50b43fb
 
 
+### プログラムを終了するときのお作法
+
+https://budougumi0617.github.io/2021/06/30/which_termination_method_should_choose_on_go/
+
+> https://golang.org/pkg/os/#Exit
+https://golang.org/pkg/builtin/#panic
+https://golang.org/pkg/runtime/#Goexit
+https://sharpknock.com/posts/programming/golang-exit.html
+
+
 ### 絶妙な顔つきのこいつ何
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/aaa7f81a-84d2-ba53-b87d-83e666985bc9.png)
@@ -95,6 +105,8 @@ https://blog.golang.org/gopher
 
 Gopher というらしい。
 
-以上
+https://www.techscore.com/blog/2016/12/02/love-gopher/
+
+愛でよう。以上
 合わせて参考になればさいわいです。
 
