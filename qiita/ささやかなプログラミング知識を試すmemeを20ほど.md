@@ -162,10 +162,11 @@ https://twitter.com/ProgrammersMeme/status/1316842299977064448?ref_src=twsrc%5Et
 
 ## おわりに
 > meme で笑えるからといって、エンジニアとしてのバリューは何も上がりません。プログラマの仕事は、意思疎通を十分に図り、コードを書いて要求を実現することです。
-
-https://programmerhumor.io/
-
-も見つけたので追記。
-
 引用: [海外で通用するエンジニアがクスッとしてしまう17の meme](https://qiita.com/cirusthenter/items/4bae72a5bd17a53883f3)。
-しかしその意思疎通に大事なのはささやかなユーモアであることも事実。見ていると時間が溶けますね...。お楽しみ頂けたら、さいわいです。
+
+
+追記: https://programmerhumor.io/
+追記2: https://9gag.com/gag/aMZKd4V
+![wearelookingfor](https://img-9gag-fun.9cache.com/photo/aMZKd4V_700bwp.webp)
+
+意思疎通に大事なのはささやかなユーモアであることも事実。見ていると時間が溶けますね...。お楽しみ頂けたら、さいわいです。

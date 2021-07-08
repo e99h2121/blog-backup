@@ -213,6 +213,7 @@
 [Another 100 CSS loaders for your next project - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l)
 [I made 100 more CSS loaders for your next project - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/i-made-100-more-css-loaders-for-your-next-project-4ioa)
 [Still 100 CSS loaders for your next project](https://dev.to/afif/still-100-css-loaders-for-your-next-project-57hp)
+[Adding 100 CSS loaders to the collection of — 500 CSS loaders 🏆 - DEV Community 👩‍💻👨‍💻](https://dev.to/afif/adding-100-css-loaders-to-the-collection-of-500-css-loaders-2a3p)
 
 <p class="codepen" data-height="565" data-theme-id="light" data-default-tab="result" data-user="t_afif" data-slug-hash="bGqEBgL" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="The progress">
   <span>See the Pen <a href="https://codepen.io/t_afif/pen/bGqEBgL">
@@ -220,6 +221,15 @@
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGWbxVG" data-user="t_afif" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/t_afif/pen/bGWbxVG">
+  Full Screen #10</a> by Temani Afif (<a href="https://codepen.io/t_afif">@t_afif</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
 
 以上、楽しんで頂けたらさいわいです。
 

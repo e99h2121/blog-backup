@@ -206,6 +206,8 @@ https://qiita.com/organizations/smarthr
 
 https://qiita.com/yamashush/items/a401bcf6b02e86b8a58b
 
+https://tech.smarthr.jp/
+
 ### Sony
 https://github.com/sony
 

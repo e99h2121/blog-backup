@@ -99,7 +99,9 @@ https://qiita.com/mochimoching/items/884758da98bb8609d943
 
 ### awesomeなSRE
 
-https://github.com/dastergon/awesome-sre
+[https://github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
+
+https://qiita.com/e99h2121/items/ae338e099f2ba765aed4
 
 
 ### awesomeなその他
