@@ -1,4 +1,11 @@
+---
+title: すべての社内文書はMarkdownで書けばいいと思うこれだけの理由
+tags: Markdown ドキュメント
+author: e99h2121
+slide: false
+---
 **Markdownを社内に布教したい**、というモチベーションからMarkdownを勧める理由をまとめたもの。
+同じようなことを考える方へ、周囲への説得材料になると嬉しい。
 
 ## 1. Markdownを勧める理由
 ### 1-1. 圧倒的理由
@@ -37,6 +44,11 @@ Markdownはジョン・グルーバー（John Gruber）によって2004年に開
 [爆速でスライドを作る！Markdownからスライドを作れる「Marp」](https://qiita.com/msp0310/items/0e54f69457f81bc64754)
 [結局Markdownでプレゼン資料ってどれで作ると良いのよ？と思ったときの選択肢](https://qiita.com/e99h2121/items/de4a7aa2409b54e42817)
 
+こんなツールもある。
+
+https://github.com/tcort/markdown-link-check
+
+
 
 
 ### 1-3. Gitでの版管理と相性が良い
@@ -61,6 +73,9 @@ Markdownはジョン・グルーバー（John Gruber）によって2004年に開
 
 つまりGitの強みをすべて享受できる。
 [世の中の小説作家と編集者は今すぐ Word や G Suite を窓から投げ捨てて Git と GitHub の使い方を覚えるべきだ](https://qiita.com/ktkraoichi/items/f6ad43c2da0b3136d6be)、いわんや開発者をや、だ。強調する。**圧倒的に「自分にとって便利になる」のだ。**
+
+
+https://dev.classmethod.jp/articles/non-97-operation-manual/
 
 
 
@@ -108,7 +123,8 @@ https://pandoc.org/
 - [word文書(docx)ファイルをmarkdown形式に変換する](https://qiita.com/kinagaki/items/460577f46529484d720e)
 - [Googleドキュメントから効率的にMarkdown作成【Docs to Markdown】](https://qiita.com/lilacs/items/450a4c14b978ddee4a88)
 - [多様なフォーマットに対応！ドキュメント変換ツールPandocを知ろう](https://qiita.com/sky_y/items/80bcd0f353ef5b8980ee)
-    - 例: `pandoc input.docx -s -o output.md` などという感じで使える。
+    - 例: `pandoc input.docx -s -o output.md` 
+    - 例: `pandoc wiki.txt -f mediawiki -t markdown_github -o wiki.md` などという感じで使える。
 - https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/cff8e42e-a12a-934e-bad1-1aa47d374287.png)
@@ -116,6 +132,13 @@ https://pandoc.org/
 コマンド例: 
 `pandoc input.docx -s -o output.md `
 `pandoc input.docx -t markdown-raw_html-native_divs-native_spans -o output.md `
+
+
+#### Mediawiki to Markdown 
+
+https://github.com/sinnwerkstatt/MediaWiki-to-Markdown-Javascript-Converter
+
+https://qiita.com/kyo_nanba/items/5e11cfa5a19e594accd5
 
 
 #### PDFからテキスト抽出
@@ -128,6 +151,7 @@ https://support.google.com/drive/answer/176692?co=GENIE.Platform%3DDesktop&hl=ja
 
 ここまで書いてもまだ訝しいと思われると思う。これを使うと良いというのを書いておく。
 
+
 ### Typora
 [どうしてみんなMarkdown書くときTypora使わないの?](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97)
 [強力なMarkdownエディタ「Typora」に今更入門](https://qiita.com/4_mio_11/items/223326c3289f6b2c2a07)
@@ -136,7 +160,11 @@ https://support.google.com/drive/answer/176692?co=GENIE.Platform%3DDesktop&hl=ja
 [Markdownテキストでシーケンス図とフローチャートを描く](https://qiita.com/ka215/items/a709665cb34c505ccf1f)
 [超高機能マークダウンエディタ「StackEdit」の Welcome Document を和訳してみた](https://qiita.com/ka215/items/9a7768609b88c5df8ef6)
 
-他、先に書いたVSCodeでも良い。
+### VSCode 
+https://qiita.com/kumapo0313/items/a59df3d74a7eaaaf3137
+
+https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d
+
 
 ### テーブル
 https://www.tablesgenerator.com/markdown_tables
