@@ -1,3 +1,9 @@
+---
+title: Delphi: TImage などの画像のちらつきを抑える
+tags: Delphi
+author: e99h2121
+slide: false
+---
 ## 現象概要
 
 ### Before
@@ -106,7 +112,11 @@ end;
 
 ## 参考にしたサイト
 
+https://e-words.jp/w/%E3%83%80%E3%83%96%E3%83%AB%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AA%E3%83%B3%E3%82%B0.html
+
 https://www.petitmonte.com/bbs/answers?question_id=2685
+
+DoubleBuffered によりメモリ使用量は増えるという話。
 
 http://delfusa.main.jp/delfusafloor/archive/www.nifty.ne.jp_forum_fdelphi/samples/00932.html
 

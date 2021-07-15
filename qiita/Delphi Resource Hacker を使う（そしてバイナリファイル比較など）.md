@@ -1,3 +1,9 @@
+---
+title: Delphi: Resource Hacker を使う（そしてバイナリファイル比較など）
+tags: ツール Delphi
+author: e99h2121
+slide: false
+---
 http://www.angusj.com/resourcehacker/
 
 https://ja.wikipedia.org/wiki/Resource_Hacker
@@ -48,10 +54,34 @@ end;
 end.
 ```
 
-## 他、Delphi製のバイナリを解析するツール
+## 他、バイナリを比較、解析するツール
 
 https://peryaudo.hatenablog.com/entry/20110105/1294209734
 
 https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/DeDe.shtml
+
+
+https://freebsd.sing.ne.jp/tool/03/08/03.html
+
+https://www.dcom-web.co.jp/lab/etc/different_bitmap
+
+https://forest.watch.impress.co.jp/docs/news/749354.html
+
+https://www.zynamics.com/software.html
+
+BinDiffはIDA（アイダ）のプラグイン
+
+https://www.hex-rays.com/products/ida/support/download_freeware.shtml
+
+で、IDAはリバースエンジニアリングのデファクトスタンダードらしい。
+
+https://www.atmarkit.co.jp/ait/articles/1108/22/news110.html
+
+しかし商用利用NGとのことなので代替品を探す。
+
+https://error4hack.com/best-ida-pro-alternatives/
+
+https://github.com/NationalSecurityAgency/ghidra
+
 
 以上メモのみ。
