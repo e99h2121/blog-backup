@@ -1,9 +1,3 @@
----
-title: Delphi: TImage などの画像のちらつきを抑える
-tags: Delphi
-author: e99h2121
-slide: false
----
 ## 現象概要
 
 ### Before

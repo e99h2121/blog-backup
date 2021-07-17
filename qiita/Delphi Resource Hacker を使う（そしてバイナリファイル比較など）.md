@@ -1,9 +1,3 @@
----
-title: Delphi: Resource Hacker を使う（そしてバイナリファイル比較など）
-tags: ツール Delphi
-author: e99h2121
-slide: false
----
 http://www.angusj.com/resourcehacker/
 
 https://ja.wikipedia.org/wiki/Resource_Hacker
