@@ -61,6 +61,8 @@ https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode
 
 https://qiita.com/msp0310/items/0e54f69457f81bc64754
 
+https://qiita.com/tomo_makes/items/aafae4021986553ae1d8
+
 PDF出力など小さき所で躓いたのでメモ
 https://github.com/marp-team/marp-vscode/issues/44
 
