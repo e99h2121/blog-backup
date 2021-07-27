@@ -67,7 +67,7 @@ https://qiita.com/kojimadev/items/ea8825dec1b0d0d2874c
 
 https://github.com/e99h2121/toggl-to-slack/blob/master/Code.gs
 
-```jss
+```js
 // 自身のSpleadsheet URLに書き換える。上で用意したURLです。まあ、無くてもいいです。
 const ssurl = 'https://docs.google.com/spreadsheets/d/hogehogehoge';
 // 自身のSlack WebHookのURLに書き換える。Slack ワークフロービルダーのところで取得した投稿用URLです。
@@ -97,7 +97,9 @@ var Toggl = {
   BASIC_AUTH: authkey,
 
   get: function(path){
-    var url = 'https://www.toggl.com/api/v8' + path;
+    //var url = 'https://www.toggl.com/api/v8' + path; こちらのURLは古いらしい。2021年6月廃止
+    var url = 'https://api.track.toggl.com/api/v8' + path;
+
     var options = {
       'method' : 'GET',
       'headers': {"Authorization" : "Basic " + Utilities.base64Encode(this.BASIC_AUTH)}
