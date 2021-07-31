@@ -2,7 +2,7 @@
 theme: uncover
 marp: true
 paginate: true
-footer: Strictly Confidential - Works Human Intelligence Co.,Ltd
+footer: For P2Competition 2021
 
 ---
 
@@ -454,7 +454,7 @@ _paginate: false
 _color: white;
 -->
 ![bg](./images/41698drsdl.png)
-# 「恥ずかしくないよ」というフィードバック。
+# Delphi「恥ずかしくないよ」というフィードバック。
 
 ----
 
@@ -616,6 +616,11 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 
 ----
 
+<!--
+_color: white;
+-->
+![bg 150%](./images/photo0000-2561.png)
+
 # そしてそれは保守開発の「PrideとPassion」によって駆動するもの。
 
 ---
@@ -674,7 +679,7 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 # 月間上位常連という実績
 
-![bg 55%](./images/org.png)
+![bg 58%](./images/org.png)
 
 
 ---
@@ -683,7 +688,7 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 
-# と、言いたいところですが、まだお願いがあります。
+と、言いたいところですが、まだお願いがあります。
 
 ---
 
@@ -717,8 +722,8 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 
-## これからも部外へ、社外へ。
-## 説明責任を果たし「発信できるWorksHIの開発」を一緒に目指したいのです。
+# これからも部外へ、社外へ。
+# 説明責任を果たし「発信できるWorksHIの開発」を一緒に目指したいのです。
 
 幸せなフィードバックループのために。
 
@@ -752,9 +757,10 @@ https://workfun.works-hi.co.jp/blog/techblog/techblog_vol2#
 
 ---
 
-以上有難うございました！
-
-![](./images/IMG_0569.png)
-
 テックブログ, @support, Habanero 
 情報発信の場でお会いしましょう
+
+![](./images/IMG_0569.png)
+以上ご清聴有難うございました！
+
+ 
