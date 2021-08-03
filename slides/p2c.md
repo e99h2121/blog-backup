@@ -2,7 +2,7 @@
 theme: uncover
 marp: true
 paginate: true
-footer: For P2Competition 2021
+footer: For P2Competition 2021 / See also #z_times_yamada_n
 
 ---
 
@@ -16,7 +16,7 @@ section {
 
 <!--
 _paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg](./images/41698drsdl.png)
 
@@ -276,8 +276,7 @@ Qiita全ユーザー中Best50位以内 / 上位0.01%内。
 ---
 
 <!--
-_paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg](./images/41698drsdl.png)
 
@@ -315,6 +314,13 @@ https://twitter.com/Keisuke69/status/1374716858255904775?s=20
 > Keisuke Nishitani
 @Keisuke69
 わかるｗ 自分もよくググってる。この間はPythonなのにJSの書き方してて当然エラーになるんだが真面目にずっと悩んでたわｗ 
+
+---
+
+https://twitter.com/masanork/status/1356749119474130945?s=20
+> Masanori Kusunoki / 楠 正憲
+@masanork
+耳が痛い話ばかりだな。国際標準との相互運用性、工業製品で日本は優等生だったんでは / “「なぜ日本はハードウェアの時代と同じようにソフトウェアに秀でることができない？」という海外の分析 | スラド デベロッパー”
 
 ---
 
@@ -370,28 +376,28 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 
 ----
 
-# COBOLと向き合う
+### COBOLと向き合う
 
 https://qiita.com/e99h2121/items/47857957fd549c83b5cb
 そういえば弊社もCOBOL保守してるけど全然触ったこと無いなという人向け、COBOLを完全理解できる記事
 
 ----
 
-# IE11終了と向き合う
+### IE11終了と向き合う
 
 https://qiita.com/e99h2121/items/053b3720cc6cc2204956
 IE11サポート終了に備える (主にデスクトップアプリにおいて)
 
 ----
 
-# gzipライセンスと向き合う
+### gzipライセンスと向き合う
 
 https://qiita.com/e99h2121/items/68ec25a343d81eaae2e3
 突然、業務上必要に駆られたひとのための、Go言語入門
 
 ----
 
-# もちろんDelphiと向き合う
+### もちろんDelphiと向き合う
 
 https://qiita.com/e99h2121/items/55b13453232a3dd5646e
 Delphi: TImage などの画像のちらつきを抑える
@@ -402,25 +408,25 @@ Delphi: TImage などの画像のちらつきを抑える
 
 ----
 
-# DBConlib.dll
+### DBConlib.dll
 
 COBOLとOracleの接続を担うC++製ライブラリです。山田しかコンパイルしたことがありません。
 
 ----
 
-# wininet.dll
+### wininet.dll
 
 COMPANYクライアントが通信に利用するdllです。IEに付随するライブラリ、IE終了後の運命はいかに。
 
 ----
 
-# gzip.exe
+### gzip.exe
 
 よもやCOMPANYクライアントはGPLライセンスを隠匿利用か？と疑われた圧縮プログラムです。法解釈を再確認頂いて事なきを得ました。
 
 ----
 
-# Doublebuffering := True;
+### Doublebuffering := True;
 
 DelphiがWin10の時代にちらつく現象をこれで回避します。
 
@@ -450,22 +456,21 @@ https://qiita.com/pik/items/42b32e2c555b9b743ca1
 ----
 
 <!--
-_paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg](./images/41698drsdl.png)
 # Delphi「恥ずかしくないよ」というフィードバック。
 
 ----
 
-# 保守
+### 保守
 
 https://qiita.com/e99h2121/items/b5c2497000c32d6fd3c3
 「エンジニアがテクニカルサポートを絶対にやったほうがいい」に違和感を持った
 
 ----
 
-# そして保守
+### そして保守
 
 https://qiita.com/e99h2121/items/f4c5856734d136f672b7
 なぜ開発チームは私の起票した要望をなかなか実装してくれないの？への苦悩
@@ -487,20 +492,23 @@ https://qiita.com/e99h2121/items/f4c5856734d136f672b7
 
 ---
 
+<!--
+_color: ivory;
+-->
+![bg](./images/41698drsdl.png)
 # だけどこんなフィードバック
 
 https://qiita.com/e99h2121/items/43873ffd84b102d95929
-「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵 に頂いたコメント
+*「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵 に頂いたコメント
 
-
-> 確認する側の立場としては、伝えてもらったよりも余裕をもって受け取るようにしています。
-スケジュール立てるときも、見積もりを聞いて、それに1.3～2倍ぐらいかけて、決めるようにしています。
 
 ---
 
+> 確認する側の立場としては、伝えてもらったよりも余裕をもって受け取るようにしています。
+
+> スケジュール立てるときも、見積もりを聞いて、それに1.3～2倍ぐらいかけて、決めるようにしています。
 > あと見積もり聞くときも、間違ったら駄目みたいな威圧的なことはしないですね。
 ずれることは前提できくけど、おおよそ、今の見通しを教えてという感じの話し方で聞きます。
-
 > だからこそ、変わるかもしれないから適宜、状況は教えてともいいます。
 往々にしてずれることがあるので、ずれることは心配しなくてよくて、
 状況がわからないのが困るといっています。
@@ -509,10 +517,9 @@ https://qiita.com/e99h2121/items/43873ffd84b102d95929
 
 > 投稿者さんがおっしゃるとおり、適宜状況は確認しあえる関係づくりが大切だと思います。
 
-> 経験がないこととかはやっぱり時間がかかったりするします。
+> 経験がないこととかはやっぱり時間がかかったりします。
 とはいえ、細かく作業を区切っているなら想定の10倍、100倍のことになることもないと思います。
-複数作業が絡むとそうは行かないので、やはり細かく作業を分割して見積もるのは大切だなと思います。
-
+> 複数作業が絡むとそうは行かないので、やはり細かく作業を分割して見積もるのは大切だなと思います。
 > 仮に想定を超えそうなら、状況を確認していれば早い段階でお客さんやチームメイトに説明して、
 対策もとれると思います。
 
@@ -528,23 +535,23 @@ https://qiita.com/e99h2121/items/43873ffd84b102d95929
 
 ---
 
-しかし私はいずれも「世に何かをもたらしコミュニケートし自らを成長させる」ことだと思っています。**フィードバック**がなければ我々は学べません。製品は育ちません。組織も育ちません。会社に新しい仲間も増えません。**危機感に気づくのもフィードバック**です。声を聞くことが必要です。
+しかし私はいずれも「世に何かをもたらしコミュニケートし自らを成長させる」ことだと思います。**フィードバック**がなければ我々は学べません。製品は育ちません。組織も育ちません。会社に新しい仲間も増えません。**危機感に気づくのもフィードバック**です。声を聞くことが必要です。
 
 WorksHIの開発を、COMPANYを腐らせないために。
 
 ---
 
-### つまりテックブログも超、大事な業務です
-
-![](./images/work.png)
-
+# つまりテックブログも、　超、大事な業務です
 と、弊社のスーパーエンジニアなマネジャーが仰っているのです。
+
+![bg blur:3px 100%](./images/work.png)
+
 
 ---
 
 <!--
 _paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg 100%](./images/41698drsdl.png)
 # 感謝のフィードバック
@@ -555,7 +562,7 @@ _color: white;
 ----
 <!--
 _paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg 180%](./images/41698drsdl.png)
 # 怒りのフィードバック
@@ -612,12 +619,16 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 
 ---
 
+<!--
+_color: ivory;
+-->
+![bg](./images/41698drsdl.png)
 # フィードバックのためのテックブログは私の「Work Fun!」
 
 ----
 
 <!--
-_color: white;
+_color: ivory;
 -->
 ![bg 150%](./images/photo0000-2561.png)
 
@@ -673,13 +684,13 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 # だから当然のQiita賞
 
-![bg 90%](./images/whiad.png)
+![bg blur:2px 90%](./images/whiad.png)
 
 ---
 
 # 月間上位常連という実績
 
-![bg 58%](./images/org.png)
+![bg blur:2px 58%](./images/org.png)
 
 
 ---
@@ -688,31 +699,43 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 
-と、言いたいところですが、まだお願いがあります。
+と、言いたいところですが、まだお願いがあります。:bowing_woman:
 
 ---
 
-## SmartHR
+#### SmartHR
 
-![image](./images/smarthr.png)
-
----
-
-## LINE
-
-![image](./images/line.png)
+![bg right:70%](./images/smarthr.png)
 
 ---
 
-## Cybozu
+#### LINE
 
-![image](./images/cybozu.png)
+![bg left:70%](./images/line.png)
 
 ---
 
-## MoneyForward
+#### Mixi
 
-![image](./images/moneyforward.png)
+![bg right:70%](./images/mixi.png)
+
+---
+
+#### Cookpad
+
+![bg left:70%](./images/cookpad.png)
+
+---
+
+#### Cybozu
+
+![bg right:70%](./images/cybozu.png)
+
+---
+
+#### Money Forward
+
+![bg left:70%](./images/moneyforward.png)
 
 ---
 
@@ -746,8 +769,7 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 <!--
-_paginate: false
-_color: white;
+_color: ivory;
 -->
 ![bg](./images/41698drsdl.png)
 # 開発の皆様におきましては
