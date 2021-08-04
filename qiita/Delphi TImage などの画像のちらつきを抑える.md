@@ -114,4 +114,7 @@ DoubleBuffered によりメモリ使用量は増えるという話。
 
 http://delfusa.main.jp/delfusafloor/archive/www.nifty.ne.jp_forum_fdelphi/samples/00932.html
 
+https://base64.work/so/delphi/196620
+
+
 以上です。

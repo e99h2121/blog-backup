@@ -96,6 +96,10 @@ https://golang.org/pkg/builtin/#panic
 https://golang.org/pkg/runtime/#Goexit
 https://sharpknock.com/posts/programming/golang-exit.html
 
+### GoのGC
+
+https://zenn.dev/koron/articles/b96cccfa82c0c1
+
 
 ### 絶妙な顔つきのこいつ何
 
