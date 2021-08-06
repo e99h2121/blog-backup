@@ -65,3 +65,8 @@ https://qiita.com/t12u/items/8c28484100dfd3a6351b
 必要な情報を適切な長さでまとめるのが、良い記事を書くコツ（Tips）でもあるようです。
 以上参考になればさいわいです。 (1429文字) 
 
+### 後日追記
+
+https://zenn.dev/sosukesuzuki/articles/d21d69a5914a03
+
+豆知識。
