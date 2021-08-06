@@ -2,7 +2,7 @@
 theme: uncover
 marp: true
 paginate: true
-footer: For P2Competition 2021 / See also #z_times_yamada_n
+footer: For P2Competition 2021 / See also #z_times_yamada_n :pineapple: 
 
 ---
 
@@ -27,6 +27,19 @@ _color: ivory;
 テックブログ運営 / HR Core, Business Common CJK (CJK業務基盤保守開発) [@yamada_n](https://e99h2121.github.io/)
 
 
+---
+
+```
+*はじめに
+
+- GoogleSlides / `*.pptx` は記事へのリンクが使えません。 
+　　`*.pdf` 版をご用意していますのでそちらを参照下さい。
+- For English speaking members. English translation is available. 
+　　You can check `*_en.pdf`
+- ご感想はぜひ #z_times_yamada_n へお寄せ下さい。
+- どうぞ最後までごゆっくりお楽しみ下さい。
+
+```
 
 ---
 
@@ -331,26 +344,26 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 
 ---
 
-## 「注目記事」
+# 「注目記事」
 
 ![image](./images/nodasan.png)
 
 ---
 
-## 月間1位
+# 月間1位
 
 ![image](./images/ranking.png)
 
 ---
 
-## 最大瞬間風速
+# 最大瞬間風速
 ### (30分間に1000超アクセス)
 
 ![bg](./images/analytics.png)
 
 ---
 
-## で声かけられた
+## 面談の声かけられた
 
 > [Twitter経由でお誘いいただき、初めてカジュアル面談受けてみたので、その感想。](https://zenn.dev/e99h2121/articles/0390fd45add338)
 
@@ -550,7 +563,6 @@ WorksHIの開発を、COMPANYを腐らせないために。
 ---
 
 <!--
-_paginate: false
 _color: ivory;
 -->
 ![bg 100%](./images/41698drsdl.png)
@@ -561,7 +573,6 @@ _color: ivory;
 
 ----
 <!--
-_paginate: false
 _color: ivory;
 -->
 ![bg 180%](./images/41698drsdl.png)
@@ -682,7 +693,13 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 
-# だから当然のQiita賞
+# 参加者60名超
+
+![bg blur:2px](./images/member.png)
+
+---
+
+# 当然のQiita賞
 
 ![bg blur:2px 90%](./images/whiad.png)
 
@@ -692,6 +709,14 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ![bg blur:2px 58%](./images/org.png)
 
+
+---
+
+# 「量は質に転化する」
+
+![bg blur:4px 90%](./images/blog.png)
+
+たかが1日をされど234回。
 
 ---
 
