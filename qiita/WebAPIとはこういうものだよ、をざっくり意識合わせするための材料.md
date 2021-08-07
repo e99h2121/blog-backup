@@ -33,11 +33,25 @@ https://github.com/nyanpyou106/versatileapisns_client
 https://github.com/javaboy-github/only-programer-sns-client/blob/main/user/user.go
 
 ### Google API
+https://console.cloud.google.com/apis/dashboard?pli=1
 
 https://qiita.com/e99h2121/items/e5fa65e886706fa680d2
 
 https://qiita.com/e99h2121/items/c7fc8648a07e6b1b3e9e
 
+### Microsoft 
+
+https://github.com/microsoft/api-guidelines
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
+
+### Spotify 
+
+https://developer.spotify.com/documentation/web-api/
+
+https://zenn.dev/yuriponx/articles/ccb87e276dc361
 
 
 
