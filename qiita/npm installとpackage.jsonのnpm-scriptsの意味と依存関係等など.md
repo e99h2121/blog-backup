@@ -178,6 +178,10 @@ https://qiita.com/sugurutakahashi12345/items/1f6bb7a372b8263500e5
 [npm と yarn と pnpm 比較（2021年4月版） - Qiita](https://qiita.com/e99h2121/items/7e38e592dc45b7c0407d)
 [10 npm Commands that every developer must know](https://dev.to/gurshehzadsingh/10-npm-commands-that-every-developer-must-know-4gmn)
 [package.json file explained](https://dev.to/naveenchandar/package-json-file-explained-b94 )
+[npmは本当に「Node Package Manager」の意味なのか](https://zenn.dev/ryuu/articles/what-npm-means)
+
+
+
 
 これでインストール時のあれやこれやの意味がわかる。
 以上参考になればさいわいです。

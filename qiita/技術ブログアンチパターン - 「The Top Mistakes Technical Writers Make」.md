@@ -83,4 +83,7 @@
 
 https://dev.to/adriantwarog/programmers-that-don-t-blog-should-start-right-now-295c
 
+https://dev.to/inhuofficial/10-tips-for-clean-dev-articles-59id
+
+
 以上参考になればさいわいです。
