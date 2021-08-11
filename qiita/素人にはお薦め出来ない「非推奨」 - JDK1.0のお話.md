@@ -1,5 +1,10 @@
-「素人にはお薦め出来ない」という[コピペが流行ったのはもはや**20年近く前**だったらしい](https://www.buzzfeed.com/jp/takumiharimaya/yoshinoya-copipe)。20年って長いですよね。生まれた赤ちゃんが成人式を迎えるくらいの長さ。
-さて2020年12月初め、話題になったこの話、[Kubernetes 1.20からDockerが**非推奨**になる理由](https://blog.inductor.me/entry/2020/12/03/061329)だったり、[Dockerは**非推奨じゃない**し今すぐ騒ぐのをやめろ](https://jaco.udcp.info/entry/2020/12/03/172843) だったり、それそのものはここでは吟味しないのですがその心は
+---
+title: 素人にはお薦め出来ない「非推奨」 - JDK1.0のお話
+tags: deprecated Java
+author: e99h2121
+slide: false
+---
+「素人にはお薦め出来ない」という[コピペが流行ったのはもはや**20年近く前**だったらしい](https://www.buzzfeed.com/jp/takumiharimaya/yoshinoya-copipe)。20年って長いですよね。生まれた赤ちゃんが成人式を迎えるくらいの長さである。さて2020年12月初旬に話題になったのは、この話、[Kubernetes 1.20からDockerが**非推奨**になる理由](https://blog.inductor.me/entry/2020/12/03/061329)だったり、[Dockerは**非推奨じゃない**し今すぐ騒ぐのをやめろ](https://jaco.udcp.info/entry/2020/12/03/172843) だったり、それそのものはここでは吟味しないのですがその心は
 
 - 機能は100%カバーされる
 - 移行を検討してほしい
@@ -11,11 +16,11 @@
 [IT用語の「非推奨」は「使えなくもないけど使わない方がいい」ということ。](https://eigobu.jp/magazine/suishou#:~:text=%E5%BE%AE%E5%A6%99%E3%81%AB%E9%81%95%E3%81%86%E3%80%8D-,IT%E7%94%A8%E8%AA%9E%E3%81%AE%E3%80%8C%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%80%8D%E3%81%AF%E3%80%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%8F%E3%82%82,%E6%96%B9%E3%81%8C%E3%81%84%E3%81%84%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8&text=%E3%80%8C%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%E3%81%AE%E8%A8%80%E8%91%89%E3%81%A7%E3%81%99%E3%80%82)
 [Deprecated と Obsolete](https://blog.cles.jp/item/6357) なんてのは「非推奨」「廃止」とかもう少し強い言い回しに聞こえる。 
 
-この「非推奨」、新機能への移行過程で起こるものであり「非推奨ですよ」と言っている側、基本的には提供者には強い意志がある。使用者側が「あ、おすすめしてないけど使っても良いのね？」とかどうでもいい。別に選択は構わないが非推奨だと言っているのですぞ。と、結果いつまでも使われているので消せないとか提供者側が言っちゃう現象が起こるのは何かズレていると思っていた。私は思っていた。思っていたし、そのつもりで我々はリニューアルした機能をお客様に提供していきたいと思っていた。
+この「非推奨」、新機能への移行過程で起こるものであり「非推奨ですよ」と言っている側、基本的には提供者には強い意志がある。使用者側が「あ、おすすめしてないけど使っても良いのね？」とかどうでもいい。別に選択は構わないが非推奨だと言っているのですぞ。と、結果いつまでも使われているので消せないとか提供者側が言っちゃう現象が起こるのは何かズレていると思っていた。筆者は思っていた。思っていたし、そのつもりで我々はリニューアルした機能をお客様に提供していきたいと思っていた。
 
 ## しかし
 よく考えたら実際は違った。例えば以下。
-[java.util.Dateクラスのほとんどのメソッド・コンストラクタはJDK1.1の段階で非推奨になっています。WikipediaによればJDK1.1のリリースは**1997年2月19日**](https://teratail.com/questions/28479)。**[非推奨ながら互換性のために消せないと言う感じ。](http://www.coppermine.jp/docs/programming/2011/12/java-util-date.html)** うわこれ結構有名な例だったな。
+[java.util.Dateクラスのほとんどのメソッド・コンストラクタはJDK1.1の段階で非推奨になっています。WikipediaによればJDK1.1のリリースは**1997年2月19日**](https://teratail.com/questions/28479)。**[非推奨ながら互換性のために消せないと言う感じ。](http://www.coppermine.jp/docs/programming/2011/12/java-util-date.html)** うわこれ結構有名な例だった。
 
 
 **互換性**がないと非推奨といえど**20年消せない** 扱いに簡単になりえるのだなということ。
@@ -28,7 +33,7 @@
 互換性が非常に高いものをサクっと出せるのは大事だし考えないといけないことだと思う。
 
 ### ちなみにこの話
-最近Updateがあったので追記する。
+2021年02月 Updateがあったので追記する。
 [JDK 1.0 (Java 1.0.2) を入手したので、GitHub に置いておきました。](https://qiita.com/YujiSoftware/items/96df259fe51d56a94a43) とのこと。何が嬉しい？
 https://github.com/YujiSoftware/JDK1.0/blob/master/src/java/util/Date.java
 でjava.util.Date が読めるということ！
@@ -135,4 +140,12 @@ https://github.com/YujiSoftware/JDK1.0/blob/master/src/java/util/Date.java#L226
 https://github1s.com/YujiSoftware/JDK1.0/blob/master/src/java/util/Date.java#L226
 
 http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/tip/src/share/classes/java/util/Date.java#l454
+
+
+## 本来は
+
+https://qiita.com/flyaway/items/644cbaa870c4a3b3167d
+
+安全かつ前向きに非推奨していきたい。
+そんな非推奨にまつわるよもやま話でした、参考になればさいわいです。
 
