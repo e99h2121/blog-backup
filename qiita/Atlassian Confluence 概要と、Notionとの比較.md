@@ -1,3 +1,9 @@
+---
+title: Atlassian Confluence 概要と、Notionとの比較
+tags: Confluence Notion
+author: e99h2121
+slide: false
+---
 Confluence、どういう事ができるの？について。
 
 https://www.atlassian.com/software/confluence
@@ -32,6 +38,8 @@ https://qiita.com/tomoyk/items/4020fda3535a10ecb2a6
 
 https://ja.confluence.atlassian.com/doc/export-content-to-word-pdf-html-and-xml-139475.html
 
+https://www.notion.so/confluence
+
 
 ## サーバー製品
 
@@ -41,9 +49,18 @@ https://www.atlassian.com/ja/migration/journey-to-cloud
 
 https://qiita.com/nh321/items/5c7ff470214fd371e5ee
 
-## 参考
+
+## 比較: Notion
+
+一方でConfluenceからNotionにした、の声も稀に見るのでメモ。
 
 https://note.com/leaner/n/n8a2c0f9458b7
 
+https://qiita.com/shushutochako/items/7b91f446f224aae23986
 
-以上です。
+よく見ると両者、お互いによく比較されている...
+
+https://www.atlassian.com/software/confluence/comparison/confluence-vs-notion
+
+
+以上、参考になればさいわいです。
