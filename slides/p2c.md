@@ -46,28 +46,28 @@ _color: ivory;
 
 # 数字1
 
-## 21,282
+## 21,702
 
 ---
 
-## 21,282
+# 21,702
 
-WorksHIのQiita Contribution(LGTM)の数です。 (2021.07.30)
+WorksHIのQiita Contribution(LGTM)の数です。 (2021.08.12)
 
 ---
 
 # 数字2
 
-## 14,505 
+## 14,865 
 
 ---
 
-## 14,505 
+# 14,865 
 
 私のContribution(LGTM)の数です。
- (2021.07.30)
+ (2021.08.12)
 
-Qiita全ユーザー中Best50位以内 / 上位0.01%内。
+Qiita全ユーザー中Best20位以内 / 上位0.01%内。
 *[Qiitaのいろいろランキング2020](https://qiita.com/rana_kualu/items/307d461ad2d59a1d6008)
 *[Qiita全体ユーザー数は2021年1月時点で60万人](https://prtimes.jp/main/html/rd/p/000001809.000001348.html)
 
@@ -79,7 +79,7 @@ Qiita全ユーザー中Best50位以内 / 上位0.01%内。
 
 ---
 
-## 1,284,542
+# 1,284,542
 
 私の記事の総閲覧数です。
  (2020.12.26 - 2021.07.21)
@@ -94,13 +94,13 @@ Qiita全ユーザー中Best50位以内 / 上位0.01%内。
 
 
 たとえば比較するなら、
-[テレビCM 15秒1本 = 200,000 円から](https://www.gentosha-mc.com/column/dertail265/) らしいです。
+[テレビCMって 15秒1本 = 200,000 円から](https://www.gentosha-mc.com/column/dertail265/) らしいです。
 
 ---
 
 # 日数
 
-## 234日
+## 256日
 
 ---
 
@@ -282,7 +282,7 @@ Qiita全ユーザー中Best50位以内 / 上位0.01%内。
 
 以上これでこの半年間、全記事の半分。
 ここまでは大した話ではありません。
-**234日続けただけ** です。
+**256日続けただけ** です。
 
 ![image](./images/blog.png)
 
@@ -346,13 +346,13 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 
 # 「注目記事」
 
-![image](./images/nodasan.png)
+![bg blur:1px 70%](./images/nodasan.png)
 
 ---
 
-# 月間1位
+# 月間堂々1位
+![bg blur:1px 40%](./images/ranking.png)
 
-![image](./images/ranking.png)
 
 ---
 
@@ -363,17 +363,23 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 
 ---
 
-## 面談の声かけられた
+# 副業始めた
+
+# :moneybag:
+
+---
+
+# 面談の声かけられた
 
 > [Twitter経由でお誘いいただき、初めてカジュアル面談受けてみたので、その感想。](https://zenn.dev/e99h2121/articles/0390fd45add338)
 
 ---
 
-## 登壇も声かけられたので喋った
+# 登壇した
 
 > [Twitter経由でお誘いいただき、初めてQiitaさんとLightning Talkしてみたので、その感想。](https://qiita.com/e99h2121/items/0cbe48f967548f5e76e9)
 
-![](./images/qiitanight.png)
+![bg blur:1px 60%](./images/qiitanight.png)
 
 ---
 
@@ -548,16 +554,21 @@ https://qiita.com/e99h2121/items/43873ffd84b102d95929
 
 ---
 
-しかし私はいずれも「世に何かをもたらしコミュニケートし自らを成長させる」ことだと思います。**フィードバック**がなければ我々は学べません。製品は育ちません。組織も育ちません。会社に新しい仲間も増えません。**危機感に気づくのもフィードバック**です。声を聞くことが必要です。
+しかし私はいずれも**両輪**、「世に何かをもたらしコミュニケートし自らを成長させる」ことだと思います。**フィードバック**がなければ我々は学べません。製品は育ちません。組織も育ちません。会社に仲間も増えません。**危機感に気づくのもフィードバック**です。声を聞くことが必要です。
 
 WorksHIの開発を、COMPANYを腐らせないために。
 
 ---
 
-# つまりテックブログも、　超、大事な業務です
-と、弊社のスーパーエンジニアなマネジャーが仰っているのです。
+# この2021年に、DelphiとCOBOLの共通ライブラリに対峙する。
 
-![bg blur:3px 100%](./images/work.png)
+---
+
+# そしてテックブログで、葛藤の焚き上げに情熱を注ぐ。
+
+発信は大事な業務だと弊社のスーパーエンジニアなマネジャーも仰っています。
+
+![bg blur:2px 100%](./images/work.png)
 
 
 ---
@@ -594,7 +605,7 @@ _color: ivory;
 
 ----
 
-### フィードバックに向き合ったチームの結果
+# フィードバックから逃げずに向き合ったチームの結果
 
 https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 > 和波 佳保/WANAMI Kaho
@@ -603,15 +614,13 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 
 ----
 
-## 弊チーム本当にすばらしい :clap:
+# 弊チーム本当にすばらしい :clap:
 
 ----
 
-## 以上を裏付けとして言いたいこと
-
 [「エンジニアがテクニカルサポートを絶対にやったほうがいい」に違和感を持った](https://qiita.com/e99h2121/items/b5c2497000c32d6fd3c3)
 
-### > エンジニアなのにテクニカルサポート(保守)すら出来ないで、本当に売れる新機能を作れると思ってるの？
+### > エンジニアなのに保守すら出来ないで、本当に売れる新機能を作れると思ってるの？
 
 ---
 
@@ -653,21 +662,21 @@ _color: ivory;
 
 # 冒頭で紹介した数字
 
-## 21,282
+## 21,702
 
 ---
 
-## 21,282 という数の "良いね"
+# 21,702 の "WorksHI良いね"
 
-WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
+WorksHIのQiita Contribution(LGTM)の数 (2021.08.12)
 
-= 文字通り **21,282 という数** の誰かに **WorksHIに対して "Looks Good to Me"** とおもってもらえた、これはその **フィードバックの数** だと思います。テックブログ運営各位（伊藤さん、梶原さん、川原さん、高橋さん）本当にお疲れさまです。
+= 文字通り **21,702 という数** の誰かに **WorksHIに対して "Looks Good to Me"** とおもってもらえた、これはその **フィードバックの数** だと思います。テックブログ運営各位（伊藤さん、梶原さん、川原さん、高橋さん）本当にお疲れさまです。
 
 :clap::tada::clap::tada::clap::tada::clap::tada::clap::tada::clap:
 
 ---
 
-## 弊社人事の皆さまの声
+# 弊社人事の皆さまの声
 
 > 集客のタイミングや候補者の **魅力付け** の観点で活用させていただいております。「WorksHIのエンジニア部門の雰囲気などを知ることができるのでテックブログなど見てください！」というアナウンスをして応募喚起していただいたり、選考が進んでいる段階や **魅力度向上** の観点でテックブログのURLなどを候補者の方へ共有したりしています。
 
@@ -695,7 +704,7 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 # 参加者60名超
 
-![bg blur:2px](./images/member.png)
+![bg blur:3px](./images/member.png)
 
 ---
 
@@ -716,7 +725,7 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ![bg blur:4px 90%](./images/blog.png)
 
-たかが1日をされど234回。
+たかが1日をされど256回。
 
 ---
 
@@ -758,9 +767,15 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ---
 
+##### NewsPicks
+
+![bg left:70%](./images/newspicks.png)
+
+---
+
 #### Money Forward
 
-![bg left:70%](./images/moneyforward.png)
+![bg right:70%](./images/moneyforward.png)
 
 ---
 
