@@ -1,9 +1,3 @@
----
-title: Atlassian Confluence 概要と、Notionとの比較
-tags: Confluence Notion
-author: e99h2121
-slide: false
----
 Confluence、どういう事ができるの？について。
 
 https://www.atlassian.com/software/confluence
