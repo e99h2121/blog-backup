@@ -130,4 +130,4 @@ https://blog.golang.jp/
 
 https://www.tiobe.com/tiobe-index/
 
-
+これ以降は、[突然、業務上必要に駆られたひとのための、Go言語入門 - おかわり - Qiita](https://qiita.com/e99h2121/items/cd5a015028d3ad66d032)

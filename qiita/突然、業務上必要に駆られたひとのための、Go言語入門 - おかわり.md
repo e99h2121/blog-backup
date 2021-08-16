@@ -9,6 +9,8 @@ https://qiita.com/e99h2121/items/68ec25a343d81eaae2e3
 
 https://qiita.com/suin/items/22662f43b6a6e8728798
 
+https://engineering.mercari.com/blog/entry/goforbeginners/
+
 
 ### 改めて
 

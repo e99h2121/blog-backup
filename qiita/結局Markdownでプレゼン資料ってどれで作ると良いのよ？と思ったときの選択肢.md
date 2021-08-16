@@ -65,6 +65,8 @@ https://qiita.com/tomo_makes/items/aafae4021986553ae1d8
 
 https://qiita.com/pocket8137/items/27ede821e59c12a1b222
 
+https://qiita.com/zono_0/items/e6ab64f381440578ea1c
+
 PDF出力など小さき所で躓いたのでメモ
 https://github.com/marp-team/marp-vscode/issues/44
 
