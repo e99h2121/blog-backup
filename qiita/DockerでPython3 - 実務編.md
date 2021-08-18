@@ -1,3 +1,9 @@
+---
+title: DockerでPython3 - 実務編
+tags: Docker Python
+author: e99h2121
+slide: false
+---
 ひとしきり、最低限の手順です。
 
 ## 準備
@@ -56,11 +62,9 @@ RUN pip install requests
 
 `docker-compose up -d --build`
 
-
-
-
 ## コンテナへ接続
 `docker-compose exec python3 bash`
+`docker exec python3 python ./opt/foo.py`
 
 
 ## installされているもの確認
@@ -108,12 +112,18 @@ https://qiita.com/zaki-lknr/items/db99909ba1eb27803456
 
 https://qiita.com/KoKeCross/items/a6365af2594a102a817b
 
+### Docker基本
+
 https://qiita.com/hiyuzawa/items/81490020568417d85e86#docker-compose
 
-### Python3
+
+### DockerとPython
 
 https://qiita.com/reflet/items/4b3f91661a54ec70a7dc
 
 https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5
+
+https://qiita.com/zaki-lknr/items/f0ca0a28e5445884f30a
+
 
 以上参考になればさいわいです。
