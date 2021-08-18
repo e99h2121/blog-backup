@@ -21,24 +21,30 @@ Docker for windows desktop等 (記事末尾参照)
 ```
 ### docker-compose.yml
 
-```docker-compose.yml
-version: '3'
-services:
-  python3:
-    restart: always
-    build: .
-    container_name: 'python3'
+docker-compose.yml
+ja: https://docs.docker.jp/compose/compose-file.html
+en: https://docs.docker.com/compose/
+
+```docker-compose.yml  
+services: # アプリケーションを動かすための各要素
+  python3: # 任意の名称
+    restart: always # 実行時に再起動するかどうか
+    build: . # ComposeFileを実行し、ビルドされるときのpath
+    container_name: 'python3' # コンテナ名
     working_dir: '/root/'
-    tty: true
+    tty: true # docker-compose up したコンテナを起動させ続ける
     volumes:
       - ./opt:/root/opt
-
 ```
 
 ### Dockerfile
 
+Dockerfile
+https://hub.docker.com/_/python
+
+
 ```Dockerfile
-FROM python:3
+FROM python:3 # ベースイメージの指定 (https://hub.docker.com/_/python Create a Dockerfile in your Python app project 参照)
 USER root
 RUN apt-get update
 RUN apt-get -y install locales && \
@@ -66,8 +72,7 @@ RUN pip install requests
 `docker-compose exec python3 bash`
 `docker exec python3 python ./opt/foo.py`
 
-
-## installされているもの確認
+## installされているものを確認してみる
 
 ```
 root@c75334aa5328:~/opt# python -m pip list
@@ -115,6 +120,14 @@ https://qiita.com/KoKeCross/items/a6365af2594a102a817b
 ### Docker基本
 
 https://qiita.com/hiyuzawa/items/81490020568417d85e86#docker-compose
+
+### docker-compose.yml
+
+https://qiita.com/sekitaka_1214/items/2af73d5dc56c6af8a167
+
+https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04
+
+https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a
 
 
 ### DockerとPython
