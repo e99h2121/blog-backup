@@ -82,6 +82,8 @@ https://japan.zdnet.com/article/35100284/3/
 
 ## WebAPI REST/RESTfulAPI参考
 
+https://www.ibm.com/cloud/learn/api
+
 https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02
 
 https://qiita.com/shimo_513/items/a58c0b44152f2a5c2ac6

@@ -1,9 +1,3 @@
----
-title: DockerでPython3 - 実務編
-tags: Docker Python
-author: e99h2121
-slide: false
----
 ひとしきり、最低限の手順です。
 
 ## 準備
