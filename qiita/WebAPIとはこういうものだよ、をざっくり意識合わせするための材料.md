@@ -80,6 +80,11 @@ https://developer.ntt.com/ja/blog/58aa2ca4-ef7c-4f50-86b6-b5758df58de6
 https://japan.zdnet.com/article/35100284/3/
 
 
+## アーキテクチャ論
+
+https://www.ibm.com/jp-ja/cloud/learn/microservices
+
+
 ## WebAPI REST/RESTfulAPI参考
 
 https://www.ibm.com/cloud/learn/api
