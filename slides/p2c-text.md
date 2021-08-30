@@ -17,41 +17,35 @@ footer: For P2Competition 2021 / See also #z_times_yamada_n :pineapple:
 https://artvee.com/
 > Artvee は、「クラシックアートを見つけよう。（Discover Classical Art）」をコンセプトに、著作権が切れてパブリックドメインとなった絵画やイラスト、書物などをインターネットで集めたコレクションサイトです。
 
-で、Writing Masterという作品らしい。
+で、Writing Masterという作品を拾いました。
 
 ### English translation
 
-For English speaking members. English translation is available. 
-　　You can check `*_en.pdf`
+For English speaking members. English translation is available. You can check `*_en.pdf`
 
 ### 数字
 
 Kickoff でのCxO発表へのオマージュです。
-
 
 ### Qiita全ユーザー中Best50位以内 / 上位0.01%内。
 
 *[Qiitaのいろいろランキング2020](https://qiita.com/rana_kualu/items/307d461ad2d59a1d6008)
 *[Qiita全体ユーザー数は2021年1月時点で60万人](https://prtimes.jp/main/html/rd/p/000001809.000001348.html)
 
-
-調べると厳密には20位以内っぽいのですがまあ誤差。自慢話です。
-
+調べると厳密には20位以内っぽいのですがまあ誤差です。
 
 ### 1,284,542
-私の記事の総閲覧数です。
- (2020.12.26 - 2021.07.21)
+私の記事の総閲覧数です。 (2020.12.26 - 2021.07.21)
+弊社PVが平均月間15万と聞きました。
 比較するなら、PV数平均としては [サイボウズ式](https://cybozushiki.cybozu.co.jp/) と[同じくらいのようです](https://www.seohacks.net/blog/8638/)。
 
 ### 234日
 Pixelaで草をはやしています。
 https://qiita.com/e99h2121/items/59a80db4b107c76a3ff1
 
-「続けるコツ」についてはまたどこかで披露したいです。今回もちろんPrideとPassionをどう裏付けるかに迷いましたがこの日数と数字がその証拠かなと結局は思います。
+「続けるコツ」についてはまたどこかで披露したいです。
 
 ### フィードバック
-
-ここから自慢に自慢を重ねた自慢。
 
 https://twitter.com/Keisuke69/status/1374716858255904775?s=20
 > Keisuke Nishitani
@@ -71,18 +65,16 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 ### 「注目記事」
 
 野田さん
-
-![image](./images/nodasan.png)
+https://works-hi.slack.com/archives/C01F3GC1VJL/p1612501765048500
 
 ### 月間1位
 
-これ2月はダブルスコアで1位ですし、今でもベスト5にはずっといる。
-
-![image](./images/ranking.png)
+Qiitaトップページ参照。
+2月はダブルスコアで1位。
 
 ### 最大瞬間風速
 
-(30分間に1000超アクセス)
+30分間に1700超アクセス)
 ![bg](./images/analytics.png)
 
 ### 副業
@@ -97,7 +89,7 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 
 > [Twitter経由でお誘いいただき、初めてQiitaさんとLightning Talkしてみたので、その感想。](https://qiita.com/e99h2121/items/0cbe48f967548f5e76e9)
 
-![](./images/qiitanight.png)
+https://twitter.com/Qiita/status/1409741162492006402?s=20
 
 
 ### 保守
@@ -118,7 +110,6 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 - Doublebuffering := True;
     - DelphiがWin10の時代にちらつく現象をこれで回避します。
 
-以上の保守案件、私が解決しましたが何か
 本当は私の給料を上げろとここで書こうかと思いました
 
 ### 2020年も末
@@ -126,25 +117,14 @@ https://twitter.com/sasakitoshinao/status/1356377289970360320?s=20
 https://qiita.com/e99h2121/items/e5b823ae69ce418ea235
 Delphiなんかで開発していて恥ずかしくないの？
 
-アンサー
 https://qiita.com/pik/items/42b32e2c555b9b743ca1
-「Delphi なんかで開発していて恥ずかしくないよ？」
-Delphi「恥ずかしくないよ」というフィードバック。
+「Delphi なんかで開発していて恥ずかしくないよ？」を頂く。
 
 https://qiita.com/e99h2121/items/b5c2497000c32d6fd3c3
 「エンジニアがテクニカルサポートを絶対にやったほうがいい」に違和感を持った
 
 https://qiita.com/e99h2121/items/f4c5856734d136f672b7
 なぜ開発チームは私の起票した要望をなかなか実装してくれないの？への苦悩
-
-私の本音: 
-
->「言い訳する暇があったら不具合をなおしたい」
-とおもう開発の誠実さと
-結局それを言い訳に言い訳レベルのことすら説明できていない開発の外側から見た現実への誠実さにより
-結果として開発の誠実は誠実じゃないことも多いかもしれない
-
-苦悩。
 
 ### だけどこんなフィードバック
 
@@ -171,7 +151,7 @@ https://qiita.com/e99h2121/items/43873ffd84b102d95929
 
 ---
 
-### 主題
+### 最もいいたいこと
 
 テックブログとCOMPANY保守、全く別の活動に見えると思います。開発にとって開発以外の作業は邪道に見える部分もあるでしょう。所詮まだまだ趣味、副業、スカンクワークだと感じる人も多いでしょう。
 
@@ -179,20 +159,13 @@ https://qiita.com/e99h2121/items/43873ffd84b102d95929
 
 WorksHIの開発を、COMPANYを腐らせないために。
 
-テックブログも、　超、大事な業務です
+テックブログも、超、大事な業務です
 と、弊社のスーパーエンジニアなマネジャーも仰っているのです。
 
-![bg blur:3px 100%](./images/work.png)
+https://works-hi.slack.com/archives/CNS5NGE1M/p1592296242341900
+#prod_cross_leader
 
-
-感謝のフィードバック
-怒りのフィードバック
-だからこそのPrideとPassion
-
-保守開発はこの会社の製品の最後の砦というプライドがあります。
-お客様に製品を通して最も情熱を持ち誠実に向き合っているのは保守開発です。
-
-----
+---
 
 ### フィードバックに向き合ったチームの結果
 
@@ -201,7 +174,7 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 > 半年で100件以上滞留減らせてました:clap: すばらしい
 > https://works-hi.slack.com/archives/CUSMMGZ7Y/p1625049104406500
 
-弊チーム本当にすばらしい :clap:
+弊チーム本当にすばらしい
 
 ### 言いたいこと
 
@@ -214,7 +187,7 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 > **現状の課題を根本解決する新機能を考えることができる**
 > **新機能への圧倒的なモチベーションが得られる**
 
-いずれも保守だからできることです。
+いずれも保守だからできること。
 
 ---
 
@@ -224,16 +197,14 @@ https://works-hi.slack.com/archives/C01DFULPCGZ/p1626323761128600
 
 # そしてそれは保守開発の「PrideとPassion」によって駆動するもの。
 
----
-
-以下伏線回収。おさらい
+以下おさらい
 
 ### 冒頭で紹介した数字
 
-21,282とは、21,282 という数の "良いね"
-WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
+22,546とは、22,546という数の "良いね"
+WorksHIのQiita Contribution(LGTM)の数 (2021.08.25)
 
-= 文字通り **21,282 という数** の誰かに **WorksHIに対して "Looks Good to Me"** とおもってもらえた、これはその **フィードバックの数** だと思います。テックブログ運営各位（伊藤さん、梶原さん、川原さん、高橋さん）本当にお疲れさまです。
+= 文字通り **22,546という数** の誰かに **WorksHIに対して "Looks Good to Me"** とおもってもらえた、これはその **フィードバックの数** だと思います。テックブログ運営各位（伊藤さん、梶原さん、川原さん、高橋さん）本当にお疲れさまです。
 
 ### 弊社人事の皆さまの声
 
@@ -257,40 +228,13 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 
 ### 参加者60名超
 
-![bg blur:2px](./images/member.png)
-
 ### 当然のQiita賞
-
-![bg blur:2px 90%](./images/whiad.png)
 
 ### 月間上位常連という実績
 
-![bg blur:2px 58%](./images/org.png)
-
 ### 「量は質に転化する」
 
-![bg blur:4px 90%](./images/blog.png)
-
-
 ---
-
-ご清聴有難うございました。
-と、言いたいところですが、まだお願いがあります。:bowing_woman:
-
----
-
-- SmartHR
-    - ヘヴィメタルらしい
-- LINE
-    - 毎月各種Meetupを主催していてすごいです
-- Mixi
-    - 新人研修資料が話題です
-- Cookpad
-    - 前々からマネジメントの話題など含め
-- Cybozu
-    - はてぶ常連
-- Money Forward
-    - ヒロハラさん超楽しそう
 
 ### これが現実
 
@@ -299,22 +243,20 @@ WorksHIのQiita Contribution(LGTM)の数 (2021.07.30)
 これが弊業界、依然、発信してナンボの世界に我々はいます。**発信しない = 優秀な仲間に出会うチャンスを捨てている** ということです。弊社が **技術はもとより、人でも敵わなくなってゆく危機感** しかないです。
 - 部外へ、社外へ。説明責任を果たし「発信できるWorksHIの開発」を一緒に目指したい。
 
-- 社内Lightning Talk 開催中 :+1:
-- Best Qiita賞 継続中 :+1:
-- Qiita賞 プライズも予算申請中 :pray:
-- 今年もアドベントカレンダー :tada:
+- 社内Lightning Talk 開催中
+- Best Qiita賞 継続中
+- Qiita賞 プライズも予算申請中
+- 今年もアドベントカレンダー
 
 そんなテックブログと保守の日常な私のPassion
  (Habaneroとカタログと製品規格と製品観点と... と野望はまだある)
  社内の皆様におきましては
- ぜひ今後ともCOMPANYへのフィードバックを、引き続きよろしくお願い致します。
-
-開発の皆様におきましてはテックブログ部、ゆるゆる活動中です！！詳細（文字数
+ ぜひ今後ともCOMPANYへのフィードバックを、引き続きよろしくお願い致します。開発の皆様におきましてはテックブログ部、ゆるゆる活動中です！！
 
 https://workfun.works-hi.co.jp/blog/techblog/techblog_vol2#
 
 テックブログ, @support, Habanero 情報発信の場でお会いしましょう
-以上使えるものは身内まで使ってしたためました。
+以上
 
 
  

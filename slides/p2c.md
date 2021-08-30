@@ -27,15 +27,29 @@ section {
     color: ivory;
     font-size: 28px;
 }
+
+.tags {
+    font-family: 'Noto Sans JP', serif;
+    color: ivory;
+    font-size: 20px;
+}
+
 </style>
 
 ![bg 100%](./images/41698drsdl.png)
 
 # 幸せなフィードバックループ　　　
 保守 Pride & Passion 駆動のテックブログという私のWork Fun! 
-#テックブログ運営 HR Core, Business Common CJK (CJK業務基盤保守開発) #半年間で1,284,542PV #22,546LGTM #採用 #発信 #注目記事 #QiitaLT登壇 #WritingMaster #量は質に転化する #Qiita賞 
-#頁数124枚 #MDでスライド
+テックブログ運営 / HR Core, Business Common CJK (CJK業務基盤保守開発) 
 :pineapple: YAMADA Nobuko [@yamada_n](https://e99h2121.github.io/) :pineapple: 
+<br>
+
+<span class="tags">
+#半年間で1,284,542PV #22,546LGTM #採用 <br>
+#注目記事 #QiitaLT登壇 #WritingMaster <br>
+#頁数124枚 #量は質に転化する #Qiita賞 <br>
+#Markdownでスライドを書こう #発信 
+<span>
 
 ---
 
