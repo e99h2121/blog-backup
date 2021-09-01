@@ -6,7 +6,7 @@
 
 `C:\git\misc>mkdir gittest`
 
-`C:\git\misc>cd gittest`
+`C:\git\misc>cd gittest` 
 
 ```
 C:\git\misc\gittest>git
