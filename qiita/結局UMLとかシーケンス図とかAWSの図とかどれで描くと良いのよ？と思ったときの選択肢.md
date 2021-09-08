@@ -217,6 +217,9 @@ https://www.google.com/intl/ja_jp/sheets/about/
 
 https://qiita.com/halpas/items/82725f1e384dde0cdf8e
 
+https://github.com/awslabs/aws-icons-for-plantuml/blob/main/AWSSymbols.md
+
+
 ### スクリプトを作ってしまうという選択肢
 
 https://qiita.com/suo-takefumi/items/2608dd179e83eb284779
