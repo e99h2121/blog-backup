@@ -63,7 +63,7 @@ https://training.fema.gov/emiweb/is/icsresource/
 >- "I don't know "と言う
 - より明確な情報を求める
 - 具合が悪いときは家にいる
-- わからない」と言う
+- 「わからない」と言う
 - 頭字語の意味を聞く
 - なぜ、どうして、と聞く
 - 物事を忘れる
