@@ -103,6 +103,21 @@ https://sharpknock.com/posts/programming/golang-exit.html
 https://zenn.dev/koron/articles/b96cccfa82c0c1
 
 
+### 議論が長年熱い
+
+https://qiita.com/hirokidaichi/items/adccebb41f77eaa6132f
+
+https://www.kbaba1001.com/entry/2021/09/17/073149
+
+https://zenn.dev/nobonobo/articles/74808a8d5e6f1e
+
+https://zenn.dev/nobonobo/articles/3f5310248567a1
+
+新たな視点。
+
+https://zenn.dev/moutend/articles/2edaa5d11f5ef12b5cfa
+
+
 ### 絶妙な顔つきのこいつ何
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/aaa7f81a-84d2-ba53-b87d-83e666985bc9.png)
