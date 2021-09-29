@@ -60,9 +60,16 @@ https://note.com/harco7/n/n3ae7e1448f49
 
 https://www.gizmodo.jp/2020/02/slack-update.html
 
-その中身：
+#### その中身：
 
 ![image (4).png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/864c1063-f44d-c9f2-f3e3-f2a11fbedbed.png)
+
+#### すっこここ
+
+https://www.itmedia.co.jp/news/articles/2109/22/news117.html
+
+
+
 
 
 ## まとめ
