@@ -49,8 +49,17 @@ https://twitter.com/toricls/status/1443164877585989632?s=20
 
 
 
+## まとめ
+
+https://hackmd.io/2hJK3N_WQcWp36AgHiWuNA?view
+
+
 
 ## ほか資料
+
+### LayerX インボイスのAI-OCRを支える非同期処理アーキテクチャ
+
+https://docs.google.com/presentation/u/1/d/1-eGkBHpMVGjvOhrDpJfvPHX1AasXtHunAmYJHEJLtaY/edit#slide=id.gebbd5bab07_0_468
 
 ### AWS CDK はどう使いこなすのか、初期開発から運用までのノウハウ
 
@@ -92,6 +101,8 @@ https://speakerdeck.com/takapy/sagemaker-studiotostep-functionswoyong-itemlopshe
 
 https://speakerdeck.com/shoichiron/kazokunote-stepfunctions-awssam-etl
 
+### AWS Amplifyを軸にした フルサーバーレスなアプリケーション構成
+https://speakerdeck.com/seike460/full-serverless-application-on-aws-amplify
 
 
-以上、Day3 も書き足すかなと思いつつ、一旦ここまでのところです。
+以上です。
