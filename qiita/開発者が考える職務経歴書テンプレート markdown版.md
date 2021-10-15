@@ -229,6 +229,12 @@ https://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4
 ```
 その他最後に、勤務条件や、開発と関係のない話題などでも伝えたいことがあれば。
 
+## shields.io
+
+https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
+
+https://shields.io/
+
 
 ## スライド化、PDF化など、加工
 
@@ -258,3 +264,6 @@ https://kic-yuuki.hatenablog.com/entry/2020/01/25/130303
 
 https://dwango.github.io/articles/engineers-resume/
 
+https://zenn.dev/st43/articles/4d65cc4d0809fc#notion-x-markdown%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F
+
+https://github.com/kawamataryo/resume

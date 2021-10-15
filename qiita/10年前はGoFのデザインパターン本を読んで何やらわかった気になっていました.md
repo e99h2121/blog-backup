@@ -68,6 +68,8 @@ https://www.quora.com/Why-do-some-functional-programmers-criticize-design-patter
 
 今から10年、加速して過ぎそうなことにドキドキしつついずれにしてもいま目の前の課題に目を背けず勉強したいですね。
 
+https://zenn.dev/takahashim/articles/d34b1a3b244e46
+
 https://qiita.com/e99h2121/items/c51d2b7b802a36a97c4f
 
 10年後Javaもどうなっていくものでしょうか、以上小話、楽しんでいただければさいわいです。

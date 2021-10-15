@@ -46,7 +46,9 @@ https://qiita.com/nh321/items/5c7ff470214fd371e5ee
 
 ## 比較: Notion
 
-一方でConfluenceからNotionにした、の声も稀に見るのでメモ。
+一方でConfluenceからNotionにした、の声も稀に見るのでメモ。日本語対応のニュースも。
+
+https://www.itmedia.co.jp/news/articles/2110/13/news100.html
 
 https://note.com/leaner/n/n8a2c0f9458b7
 
