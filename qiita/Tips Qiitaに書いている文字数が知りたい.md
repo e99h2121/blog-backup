@@ -32,7 +32,8 @@ F12を開き開発者ツールConsoleを開きます。
 以下を貼り付けます。
 
 ```js
-let input = document.getElementsByClassName("css-1iu5ybx");
+// let input = document.getElementsByClassName("css-1iu5ybx"); 古くなったので修正 2021.09
+let input = document.getElementsByClassName("css-avadu4");
 let count = input[0].value.replace(/\n/g, "").length;
 console.log(count); 
 ```
@@ -52,7 +53,9 @@ URL: `chrome://bookmarks/` を開きます。
 右上からブックマークを追加します。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/b293f8e5-f971-0e77-f090-5d801ccefe3a.png)
 
-`javascript: alert(document.getElementsByClassName("css-1iu5ybx")[0].value.replace(/\n/g, "").length);` をURLに登録してみましょう。出来上がったら編集しながら、ブックマークボタンを押下。
+<s>`javascript: alert(document.getElementsByClassName("css-1iu5ybx")[0].value.replace(/\n/g, "").length);` </s> (2021.09 Qiitaの変更に伴い修正)
+
+`javascript: alert(document.getElementsByClassName("css-avadu4")[0].value.replace(/\n/g, "").length);` をURLに登録してみましょう。出来上がったら編集しながら、ブックマークボタンを押下。
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/e5a4f9ce-eeef-4f7e-644d-2bf43211922a.png)
 
