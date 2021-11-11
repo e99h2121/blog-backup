@@ -13,11 +13,21 @@ https://qiita.com/kenRp01/items/f415eb999a661e1326e2
 
 ## Log4j (Log4j 1.x)
 
+https://ja.wikipedia.org/wiki/Log4j
+
 https://logging.apache.org/log4j/1.2/
 
 > On August 5, 2015 the Logging Services Project Management Committee announced that Log4j 1.x had reached end of life. For complete text of the announcement please see the Apache Blog. Users of Log4j 1 are recommended to upgrade to Apache Log4j 2.
 
 > 2015年8月5日、Logging Services Project Management Committeeは、Log4j 1.xがend of lifeに達したことを発表しました。発表の全文は、Apache Blogをご覧ください。Log4j 1のユーザーは、Apache Log4j 2へのアップグレードを推奨します。
+
+
+### トラブル報告
+
+https://taka-2.hatenablog.jp/entry/20120825/p1
+
+https://scrapbox.io/jiro4989/log4js%E3%81%AE%E6%97%A5%E4%BB%98%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E8%A9%A6%E3%81%9D%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%83%89%E3%83%8F%E3%83%9E%E3%82%8A%E3%81%97%E3%81%9F
+
 
 ## Log4j2 (Log4j 2.x)
 
