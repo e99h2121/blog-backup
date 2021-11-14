@@ -143,5 +143,7 @@ https://helve-blog.com/posts/web-technology/migration-hatena-hugo/
 
 https://tatsy.github.io/blog/posts/2020-12-21-%E5%80%8B%E4%BA%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92hugo%E3%81%AB%E7%A7%BB%E7%AE%A1%E3%81%97%E3%81%9F%E8%A9%B1/
 
+https://zenn.dev/harachan/articles/a043e9a756cae4
+
 
 以上です。
