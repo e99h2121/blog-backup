@@ -11,6 +11,10 @@ DevRel Meetup in Tokyoは2015年9月よりはじまった日本唯一のDevRel�
 
 https://twitter.com/devrelTokyo/status/1459367086967312389?s=20
 
+https://togetter.com/li/1802976
+
+
+
 - 採用目的ではなく「技術力もあるんだから、知見を外部に共有して業界全体を良くしていこう」
 
 - 「会社が知られててもその会社の働く環境が知られているかは別。こういう人と働きたい、みたいな情報がないとエンジニアの気持ちは動かないと思う。」
@@ -21,6 +25,7 @@ https://twitter.com/devrelTokyo/status/1459367086967312389?s=20
 
 - 効果測定とか、モチベーションは:
     - 全員が書かなくてよい、全体の2~3割。でも、その人達に、評価にも自分だけでない会社、業界へのプレゼンスが入ってくるので、成果になるようにする。
+
 
 
 業務時間に書けるのはもう大事。3万本はすごい。誰かだけじゃなくて何人も毎日書かれてるっていうのは本当に浸透しているのだろうなあという感想。
@@ -45,6 +50,7 @@ https://twitter.com/devrelTokyo/status/1459367086967312389?s=20
 
 
 ## 各Track
+
 ### TrackA
 <iframe width="860" height="484" src="https://www.youtube.com/embed/ZNfqeU-uqp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,5 +60,11 @@ https://twitter.com/devrelTokyo/status/1459367086967312389?s=20
 ### TrackC
 <iframe width="860" height="484" src="https://www.youtube.com/embed/n7Obj5hsC6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## 他リンク
+
+https://note.com/n0bisuke/n/n8b70402dd99d
+
+https://note.com/keitafukui/n/n3bc85b1ca3f0
 
 感想文まで、以上です。
