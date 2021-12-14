@@ -55,6 +55,7 @@ https://sre.xyz/#on-call
 
 https://training.fema.gov/emiweb/is/icsresource/
 
+https://jerd.co.jp/column/319/
 
 
 ## [It's ok to say what's ok](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/)
