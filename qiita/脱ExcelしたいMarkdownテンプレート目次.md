@@ -4,6 +4,20 @@
 
 https://qiita.com/e99h2121/items/28fd575b18bdf41b60dd
 
+
+### GitHub Flavored Markdown推し
+
+https://qiita.com/tk0miya/items/6b81e0e4563199037018
+
+https://qiita.com/zr_tex8r/items/0c02ee2cba92c635c7c5
+
+### 段落
+
+https://qiita.com/zr_tex8r/items/95822fb19bee698c0f17
+
+https://qiita.com/zr_tex8r/items/511662d8d79e9afabe86
+
+
 ## Markdownで設計
 
 https://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4
