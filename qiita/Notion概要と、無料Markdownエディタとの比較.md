@@ -11,6 +11,14 @@ https://www.notion.so/ja-jp
 
 ひとまずパーソナルを楽しく使っています。
 
+https://qiita.com/yuki_doi/items/022cec7bddb1d281843e
+
+https://medium.com/@Ancient_Scapes/%E3%82%82%E3%81%86%E5%85%A8%E9%83%A8notion%E3%81%A7%E3%81%88%E3%81%88%E3%82%84%E3%82%93-e44368212053
+
+https://dev.classmethod.jp/articles/mermaid-markdown-is-supported-in-notion/
+
+https://zenn.dev/lisatech/articles/inception-deck-template-on-notion
+
 
 ## 比較
 
