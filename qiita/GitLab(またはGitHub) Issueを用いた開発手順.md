@@ -36,7 +36,7 @@
 
 ## まとめ
 
-https://qiita.com/e99h2121/items/2690103fce58cdbdc714
+[GitLab(またはGitHub)でIssue Templateを作る - Qiita](https://qiita.com/e99h2121/items/2690103fce58cdbdc714)
 
 https://qiita.com/e99h2121/items/e9941211d9780d5b68c9
 

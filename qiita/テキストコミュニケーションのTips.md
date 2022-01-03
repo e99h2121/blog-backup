@@ -140,6 +140,9 @@ https://qiita.com/e99h2121/items/7899b7055ed7c89a0c56
 
 https://qiita.com/hidemitsuaoki/items/5dc595ab6d6e6fbcb0e0
 
+
+https://qiita.com/autotaker1984/items/79576581e239244772f1
+
 https://qiita.com/satomihoya/items/b125e1eaf44c4a643e6e
 
 https://qiita.com/shoichinishiguchi/items/d4169e175f9d439a5211

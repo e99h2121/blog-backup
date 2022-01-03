@@ -1,5 +1,7 @@
 Notion 何ができるのについて。
 
+## 何ができるの
+
 https://www.notion.so/ja-jp
 
 > NotionはNotion Labs Incによって開発された「タスク」「Wiki」「データベースを統合する」メモアプリケーションサービス
@@ -18,6 +20,23 @@ https://medium.com/@Ancient_Scapes/%E3%82%82%E3%81%86%E5%85%A8%E9%83%A8notion%E3
 https://dev.classmethod.jp/articles/mermaid-markdown-is-supported-in-notion/
 
 https://zenn.dev/lisatech/articles/inception-deck-template-on-notion
+
+https://zenn.dev/tenajima/articles/task_management_of_the_year_2021
+
+
+https://notion-icons.vercel.app/
+
+
+
+### Dev.toより連載
+
+- ポートフォリオ公開から1週間でWeb制作の仕事を獲得した方法
+    - [How I’ve got a web development job one week after publishing my portfolio - DEV Community 👩‍💻👨‍💻](https://dev.to/colocodes/how-ive-got-a-web-development-job-one-week-after-publishing-my-portfolio-3o6g)
+- Notionを使ったプログラミングトピックの整理
+    - [Using Notion to organise programming topics - DEV Community 👩‍💻👨‍💻](https://dev.to/colocodes/using-notion-to-organise-programming-topics-4ida)
+- 440ページ以上のWeb制作コンテンツを持つ私のNotionテンプレートを共有します。
+    - [I share my Notion template with over 440 pages of web development content - DEV Community 👩‍💻👨‍💻](https://dev.to/colocodes/i-share-my-notion-template-with-over-440-pages-of-web-development-content-22cf)
+
 
 
 ## 比較
@@ -54,6 +73,11 @@ https://growi.cloud/blog/853
 https://www.markdownguide.org/getting-started/
 
 https://5stardata.info/ja/
+
+### Confluenceとの比較
+
+https://qiita.com/e99h2121/items/cd4d354fc7bbe528a063
+
 
 参考まで。
 以上です～
