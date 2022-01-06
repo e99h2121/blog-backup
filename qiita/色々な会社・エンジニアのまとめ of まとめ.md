@@ -32,6 +32,8 @@ https://tech.gamewith.co.jp/entry/2018/01/19/191230
 
 https://qiita.com/organizations
 
+[永久保存版！エンジニア向け情報収集サイトをまとめてみた【定期更新】 - Qiita](https://qiita.com/tomox1001/items/384e27b6259efdb6064e#%E3%83%86%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0) - テックブログ
+
 https://github.com/koji/awesome-company-tech-blogs
 
 ## ソースコード公開まとめ
