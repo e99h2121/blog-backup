@@ -1,9 +1,3 @@
----
-title: エンジニアはオープンネスを好むのか？ - OSS理想論
-tags: OSS OpenSource ポエム
-author: e99h2121
-slide: false
----
 「[OPENNESS](https://r25.jp/article/755626890450596284)」オープンネス、とは開放性とか開示性のこと、で、結論から書くと「エンジニアだからオープンネスを選択するとは別に限らない」と思っている。単にそれは経営方針の違い。オープンかそうでないかと言えば例えばSlack論を以下参考。
 
 - [Slack仕草 - Qiita](https://qiita.com/e99h2121/items/6a6f06cfaf4a74fca0f3)

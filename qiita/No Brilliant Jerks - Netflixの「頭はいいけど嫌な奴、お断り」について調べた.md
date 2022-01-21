@@ -72,6 +72,7 @@ https://jobs.netflix.com/culture?lang=%E6%97%A5%E6%9C%AC%E8%AA%9E
 ## まとめ
 
 [エンジニアにおける"難しい人"への対処法 - Qiita](https://qiita.com/muumu/items/1da55b3c8760cec6d25c) 
+[エンジニアや上司が"難しい人"を脱する方法 - Qiita](https://qiita.com/muumu/items/d22613657c7e5aebea6e)
 
 > ただ、テーマをキャッチーにするがために「難しい人」というラベリングをしたことには賛否両論あると思います。
 > 実際、社内のエンジニアを眺めてこの人は難しい人、この人は難しくない人、と2値で分類できるようなものではありません。
