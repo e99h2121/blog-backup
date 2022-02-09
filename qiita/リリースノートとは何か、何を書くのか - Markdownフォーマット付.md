@@ -69,7 +69,9 @@ https://www.gizmodo.jp/2020/02/slack-update.html
 https://www.itmedia.co.jp/news/articles/2109/22/news117.html
 
 
+## 良いリリースノートの書き方
 
+https://simonwillison.net/2022/Jan/31/release-notes/
 
 
 ## まとめ

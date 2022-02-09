@@ -36,6 +36,13 @@ https://qiita.com/organizations
 
 https://github.com/koji/awesome-company-tech-blogs
 
+### RSSフィード
+
+https://yamadashy.github.io/tech-blog-rss-feed/
+
+https://qiita.com/yamadashy/items/0130e3e569b0832bc51f
+
+
 ## ソースコード公開まとめ
 
 https://zenn.dev/username/articles/2021-11-29-3fe9ccd53b5395d5ad5b
