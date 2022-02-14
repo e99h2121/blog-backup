@@ -52,4 +52,9 @@ https://zenn.dev/hidebon0630/articles/75022374e28cdf
 
 > ホワイトボードを使って人前でコーディングすると緊張して実力が出せない」
 
-という意見ということ。記事サマリのみですが以上です～
+という意見ということ。
+
+[Why I Stopped Interviewing with Companies That Require a Coding Test - DEV Community 👩‍💻👨‍💻](https://dev.to/bradstondev/why-i-stopped-interviewing-with-companies-that-require-a-coding-test-2j6n)
+> 人はみな天才なのに、魚を木登りで評価したら、魚は自分がバカだと思い込んで一生を過ごすことになる
+
+記事サマリのみですが以上です～
