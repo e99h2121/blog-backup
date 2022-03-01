@@ -54,6 +54,7 @@ https://coliss.com/articles/build-websites/operation/javascript/typewritten-text
 
 https://qiita.com/e99h2121/items/343b401de01e5bdf5f5c
 
+https://yokwejuste.live/the-ultimate-solution-to-typewriter-animation
 
 ここ最近で集めたもの。以上お楽しみいただければさいわいです。
 
