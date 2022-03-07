@@ -30,6 +30,10 @@ https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.definition.wa-
 
 https://emeao.jp/guide/privacymark/privacymark-knowlege/post-1482/
 
+### JDBC
+
+https://e-words.jp/w/JDBC.html
+
 
 ### NTP
 
