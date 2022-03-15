@@ -37,6 +37,13 @@ https://notion-icons.vercel.app/
 - 440ページ以上のWeb制作コンテンツを持つ私のNotionテンプレートを共有します。
     - [I share my Notion template with over 440 pages of web development content - DEV Community 👩‍💻👨‍💻](https://dev.to/colocodes/i-share-my-notion-template-with-over-440-pages-of-web-development-content-22cf)
 
+## テンプレート
+
+https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d
+
+https://extns.notion.site/Npedia-49fddc69667c4963964e54a012b36ec7
+
+https://nicklafferty.com/blog/free-notion-templates/
 
 
 ## 比較
