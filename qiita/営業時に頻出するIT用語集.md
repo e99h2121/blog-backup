@@ -26,9 +26,21 @@ https://www.skyarch.net/column/aws-privatelink/
 
 https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.definition.wa-def.ja.html
 
+### Grepとは
+
+https://www.weblio.jp/content/GREP
+
+> grepとは、テキストファイルから文字列を検索するプログラムの名称である。もともとは、UNIXのコマンドの一つであったが、MS-DOSやWindowsにも移植され用いられている。
+
+### IaaS, PaaS, SaaS
+
+https://www.ibm.com/jp-ja/cloud/learn/iaas-paas-saas
+
 ### ISO9001, ISO14001, ISO27001
 
 https://emeao.jp/guide/privacymark/privacymark-knowlege/post-1482/
+
+
 
 ### JDBC
 
@@ -48,9 +60,6 @@ https://tech-lab.sios.jp/archives/25470
 
 https://jpn.nec.com/solution/bcdr/dr_system01.html
 
-### IaaS, PaaS, SaaS
-
-https://www.ibm.com/jp-ja/cloud/learn/iaas-paas-saas
 
 ### SAML
 
