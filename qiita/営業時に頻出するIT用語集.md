@@ -220,6 +220,7 @@ to. 営業各位 もうしわけないですが、ここにない用語はググ
 
 [「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/index.html)
 [不思議の国のSE用語 - Qiita](https://qiita.com/t_nakayama0714/items/478a8ed3a9ae143ad854)
+[非エンジニアにクラウド技術の良さを伝えてみる - Qiita](https://qiita.com/muson0110/items/402a094a339b10f2b25e)
 [「◯◯をサポートしていますか？」という質問をなくしたい - Qiita](https://qiita.com/flyaway/items/e15b92290046685a8703)
 [自他に「対抗する」テクニカルサポートの目次 - Qiita](https://qiita.com/e99h2121/items/2b1aa533c89394ddc994)
 [非エンジニアに向けてクラウドサービスについて簡単に説明してみた - Qiita](https://qiita.com/shimajiri/items/a49eddc4230ee9d73e35)

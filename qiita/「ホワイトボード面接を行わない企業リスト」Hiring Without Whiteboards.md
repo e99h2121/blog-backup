@@ -45,6 +45,7 @@ https://zenn.dev/hidebon0630/articles/75022374e28cdf
 [プログラマーの力量を見極める--面接官になったら尋ねるべき質問実例集 - ZDNet Japan](https://japan.zdnet.com/article/20409456/)
 [本質的なエンジニアの技術面接とは。テスト問題からリアリティのある課題へ | Findyブログ](https://findy-code.io/engineer-lab/engineer-saiyo-with-no-whiteboard)
 [開発の採用活動に必要な前提知識と人事・開発それぞれからみた習得難度 - Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2022/01/16/033222)
+[今回の転職活動の雑感 - seri::diary](https://serihiro.hatenablog.com/entry/2022/04/29/000000)
 
 > ビジネスを進めるためには、ビジネス上の問題を解決することが本質
 
