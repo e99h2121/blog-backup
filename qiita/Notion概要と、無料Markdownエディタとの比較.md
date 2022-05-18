@@ -6,8 +6,7 @@ https://www.notion.so/ja-jp
 
 > NotionはNotion Labs Incによって開発された「タスク」「Wiki」「データベースを統合する」メモアプリケーションサービス
 
-お高いんでしょう？以下引用です
-引用: 
+お高いんでしょう？以下引用:
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/73a244cc-bc27-254a-bf66-41a979e14247.png)
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/93824/d9c98b13-a741-4713-32e3-260ab0805ddc.png)
 
@@ -56,13 +55,9 @@ https://twitter.com/shogocat/status/1469464409609486337?s=20
 
 
 
-### その他無料onlineマークダウンエディタ
-
-https://obsidian.md/
+### その他無料オンラインマークダウンエディタ
 
 https://dillinger.io/
-
-https://snyt45.com/posts/20210612/obsidian-1month-settings/
 
 https://type.md/
 
@@ -81,9 +76,16 @@ https://www.markdownguide.org/getting-started/
 
 https://5stardata.info/ja/
 
-### Confluenceとの比較
 
-https://qiita.com/e99h2121/items/cd4d354fc7bbe528a063
+### Obsidianというアプリ
+
+https://obsidian.md/
+
+https://snyt45.com/posts/20210612/obsidian-1month-settings/
+
+https://pouhon.net/obsidian-articles/6396/
+
+https://qiita.com/koKekkoh/items/f1f684f0d7dadb658d02
 
 
 参考まで。

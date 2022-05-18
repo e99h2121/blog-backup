@@ -58,7 +58,8 @@ https://tech-lab.sios.jp/archives/25470
 
 ### RTO, RPO, RLO
 
-https://jpn.nec.com/solution/bcdr/dr_system01.html
+[「RPO」と「RTO」と「RLO」の違い｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/diff146recovery.html)
+[BCPにおけるRPO、RTO、RLOの違いとは？策定方法も解説｜緊急連絡網・安否確認システム「オクレンジャー」](https://www.ocrenger.jp/archives/3806/)
 
 
 ### SAML
@@ -69,6 +70,7 @@ https://www.cybernet.co.jp/onelogin/function/saml.html
 
 https://pfs.nifcloud.com/navi/tech/slo.htm
 
+[契約トラブル回避のススメ つかんでおきたい「SLA」と「SLO」のちがい | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/business/services/management/operations-management/global-management-one/column/sla_slo.html)
 
 ### SMTP
 
@@ -171,6 +173,7 @@ https://itmanabi.com/responsetime-turnaroundtime/
 
 http://e-words.jp/w/2E79BB8E382B3E3839FE38383E38388.html
 
+読み物: [翻訳: スターバックスは2フェーズコミットを使わない | Ouobpo](https://ameblo.jp/ouobpo/entry-10070039150.html)
 
 
 ### 二要素認証, 二段階認証
