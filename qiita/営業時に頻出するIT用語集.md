@@ -155,6 +155,9 @@ https://e-words.jp/w/%E9%9D%9E%E6%8E%A8%E5%A5%A8.html
 
 https://blog.cles.jp/item/6357
 
+### ストレージ
+
+[ファイルストレージ オブジェクトストレージ ブロックストレージ とは - Qiita](https://qiita.com/miyuki_samitani/items/ab5af419d935710e2f29)
 
 ### スワップ
 
@@ -210,6 +213,11 @@ https://www.ibm.com/jp-ja/cloud/learn/microservices
 ### リージョンとアベイラビリティーゾーン
 
 https://aws.amazon.com/jp/about-aws/global-infrastructure/regions_az/
+
+
+### レイテンシー
+
+[レイテンシとは (latency)： - IT用語辞典バイナリ](https://www.sophia-it.com/content/%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7)
 
 ### レガシーシステム
 
