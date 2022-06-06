@@ -77,5 +77,8 @@ https://material.io/
 ## 補足
 
 [Designとデザインと設計 - Qiita](https://qiita.com/e99h2121/items/7b352a6bf4acfac8b2fa)
+[デザインシステムを育てていく](https://zenn.dev/sakito/articles/ddf3ccf85abc50)
 
+
+育てていくことを目標に
 以上です～
