@@ -31,6 +31,18 @@ https://yamdas.hatenablog.com/entry/20200803/hiring-without-whiteboards
 >
 > これを作ったのは Lauren Tan という現在 Facebook でソフトウェアエンジニアをやっている方で、これを彼女が立ち上げようと思ったのも、ホワイトボード面接は女性の候補者に心理的ストレスを与えているという上で取り上げた話を実地で感じていたからだろうか。
 
+## 逆質問
+
+https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md
+
+[「就職するまでにしておくといいことはありますか」という質問に全力で答えてみる](https://zenn.dev/taikiuejo/articles/8e9d4fbc3c8863)
+
+## What happens when..
+
+https://github.com/tetz-akaneya/what-happens-when-JA
+
+https://zenn.dev/ak/articles/61d25099295372
+
 
 ## コーディングテスト
 
@@ -41,6 +53,8 @@ https://mayah.jp/posts/2021/10/coding-test/
 https://zenn.dev/katoaki/articles/f5b95e4673c709
 
 https://zenn.dev/hidebon0630/articles/75022374e28cdf
+
+[yangshun/tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
 
 [Tech Interview Blog – IGotAnOffer](https://igotanoffer.com/blogs/tech/)
 [プログラマーの力量を見極める--面接官になったら尋ねるべき質問実例集 - ZDNet Japan](https://japan.zdnet.com/article/20409456/)

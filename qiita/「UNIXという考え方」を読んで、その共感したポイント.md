@@ -112,5 +112,6 @@ Unixが目指した世界、その背景にある哲学が、この本を読む�
 
 https://pc.watch.impress.co.jp/docs/column/ubuntu/1407176.html
 
+[名著「UNIXという考え方 - UNIX哲学」は本当に名著なのか？ 〜 著者のガンカーズは何者なのかとことん調べてみた - Qiita](https://qiita.com/ko1nksm/items/f1800c6ff6dd649d7429)
 
 以上です～

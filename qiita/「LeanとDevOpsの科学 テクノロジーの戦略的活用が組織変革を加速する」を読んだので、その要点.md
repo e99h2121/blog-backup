@@ -95,6 +95,7 @@
 - [組織パフォーマンスの改善策を科学的に特定したケイパビリティー24個のクイック・リファレンス | by Masato Ishigaki | Masato Ishigaki | Medium](https://medium.com/i35-267/%E7%B5%84%E7%B9%94%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96%E3%82%92%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AB%E7%89%B9%E5%AE%9A%E3%81%97%E3%81%9F%E3%82%B1%E3%82%A4%E3%83%91%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC24%E5%80%8B%E3%81%AE%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF-%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9-a7853db201ee)
 - [Developer Experience向上への考察 - 「LeanとDevOpsの科学」を読んで - - TSUGULOG](https://yoshitsugu.net/posts/2018-12-21-lean-devops-and-dx.html)
 - [「LeanとDevOpsの科学」を実際にチームに適用した際の工夫 - talk at DevOpsDays Tokyo 2022 - Visional Engineering Blog](https://engineering.visional.inc/blog/412/devops-days-tokyo-2022-after/)
+- [「Lean と DevOps の科学」を読む前に知りたかったこと - Qiita](https://qiita.com/punkshiraishi/items/627810b8885f039a1ca4)
 
 ### 資料
 - Puppet社によるState of DevOps Reportが元
