@@ -66,5 +66,7 @@ https://twitter.com/ichitwimi/status/1439779208654323716?s=20
 [AWS認定試験をオンラインで受けてみた - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/aws-certification-online)
 
 [【怒りを昇華】AWS・ピアソンVUEなどの問合せ先リンク集＆オンライン試験当日にトラブった話 - Qiita](https://qiita.com/TakuyaSuzuki/items/a6bd9efd8a61d3f1bdbc) ... これは稀なケースかもしれないが ... 心中察し  
+追記: [AWS資格自宅受験がなかなか落とし穴が多かったので発信したいです。 - Qiita](https://qiita.com/reon_tani/items/7f0b26297b1c17f4b48c)
+
 
 もしかしたら、もしかしたら試験監督によるのかもしれないのですが、ガチャはいやです、試験と関係ないところで時間を費やすのは良くないですねという学び。この後ちゃんと合格記を書きます！以上です～

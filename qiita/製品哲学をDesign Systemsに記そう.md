@@ -55,6 +55,9 @@ https://material.io/
 [Overview | Pajamas Design System](https://design.gitlab.com/brand/overview/) ... GitLab 
 
 
+https://baigie.me/company/guideline/
+https://classmethod.jp/company/culture/
+
 ## まとめ
 
 > **デザインシステムは、すべてを結びつけるもの**
@@ -78,7 +81,7 @@ https://material.io/
 
 [Designとデザインと設計 - Qiita](https://qiita.com/e99h2121/items/7b352a6bf4acfac8b2fa)
 [デザインシステムを育てていく](https://zenn.dev/sakito/articles/ddf3ccf85abc50)
-
+[Figmaに公開されている日本のデザインシステム系ファイル](https://zenn.dev/kgsi/articles/52236aaae2db7b)
 
 育てていくことを目標に
 以上です～
