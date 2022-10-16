@@ -73,4 +73,6 @@ a local folder of plain text Markdown files.
 とにかく自分好みに今のところ使えているので使い続けてみます。
 日々のメモなどというのは思い切りお好みによりけりと思っていますが、自分と同じ宗派の方の参考になれば嬉しいです。
 
+追記: [MarkdownエディタObsidian v1.0.0がリリース | gihyo.jp](https://gihyo.jp/article/2022/10/obsidian)
+
 以上です～
